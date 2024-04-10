@@ -113,8 +113,7 @@ I found myself agreeing with the development team too often. When this employmen
 <img height="24"  alt="Power Automate Desktop" src="https://img.shields.io/badge/Power%20Automate%20Desktop-f6f6f6?style=flat-square&logo=powerautomate&logoColor=blue" />
 <img height="24"  alt="Power BI" src="https://img.shields.io/badge/Power%20BI-f6f6f6?style=flat-square&logo=powerbi" />
 <img height="24"  alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-f6f6f6?style=flat-square&logo=microsoftexcel&logoColor=%23217346" />
-<img height="24"  alt="VBA" src="https://img.shields.io/badge/VBA%20-darkgreen?style=flat-square
-" />
+<img height="24"  alt="VBA" src="https://img.shields.io/badge/VBA%20-darkgreen?style=flat-square" />
 </li>
 </ul>
 <!-- Hosting -->
