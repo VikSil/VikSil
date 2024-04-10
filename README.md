@@ -1,4 +1,4 @@
-# Hi, my name is Vik <img height = "30" src="./Telegram_Fox.gif"/>
+# Hi, my name is Vik <img height = "30" src="https://github.com/VikSil/VikSil/blob/trunk/Telegram_Fox.gif"/>
 
 * I studied Computer Science at Riga Technical University, graduating with a Bachelor's degree in 2006 and a Master's degree in 2008.
 * I worked as a system analyst in various projects between 2008 and 2013.
