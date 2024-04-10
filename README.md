@@ -247,13 +247,7 @@ I found myself agreeing with the development team too often. When this employmen
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikSil&layout=donut&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt="VikSil's Most Used Languages"/>
 </p>
 
-<p align="center">
-Visit Counter<br>
-<img height="30" src="https://profile-counter.glitch.me/{viksil}/count.svg" />
-</p>
-
-
-
+<p align="center"> <img height="30" src="https://komarev.com/ghpvc/?username=VikSil&label=Profile%20views&style=flat-square" alt="Viksil's profile views" /> </p>
 
 <!-- LINKS -->
 [LinkedIn]: https://www.linkedin.com/in/viktoria-sudraba/
