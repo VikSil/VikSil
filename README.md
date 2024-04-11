@@ -135,7 +135,7 @@
 
 ## Repo summary
 
-<p style= "font-size:21px" align="center"><a href = "https://github.com/VikSil/Statistics101">Statistics101</a></p>
+<h3 align="center"><a href = "https://github.com/VikSil/Statistics101">Statistics101</a></h3>
 <p align="center">
 <img src="https://img.shields.io/github/created-at/VikSil/statistics101" alt="Created At"/>&nbsp;
 <img src="https://img.shields.io/github/commit-activity/t/viksil/Statistics101" alt="Number of commits"/>&nbsp;
@@ -161,7 +161,7 @@
 </p>
 <br>
 
-<p style= "font-size:21px" align="center"><a href = "https://github.com/VikSil/CS50Web">CS50Web</a></p>
+<h3  style= "font-size:21px" align="center"><a href = "https://github.com/VikSil/CS50Web">CS50Web</a></h3 >
 <p align="center">
 <img src="https://img.shields.io/github/created-at/VikSil/cs50web" alt="Created At"/>&nbsp;
 <img src="https://img.shields.io/github/commit-activity/t/viksil/cs50web" alt="Number of commits"/>&nbsp;
@@ -180,7 +180,7 @@
 </p>
 <br>
 
-<p style= "font-size:21px" align="center"><a href = "https://github.com/VikSil/CS50Python">CS50Python</a></p>
+<h3  style= "font-size:21px" align="center"><a href = "https://github.com/VikSil/CS50Python">CS50Python</a></h3 >
 <p align="center">
 <img src="https://img.shields.io/github/created-at/VikSil/cs50python" alt="Created At"/>&nbsp;
 <img src="https://img.shields.io/github/commit-activity/t/viksil/cs50python" alt="Number of commits"/>&nbsp;
@@ -196,7 +196,7 @@
 </p>
 <br>
 
-<p style= "font-size:21px" align="center"><a href = "https://github.com/VikSil/NC-news-backend-API">NC-news-backend-API</a></p>
+<h3  style= "font-size:21px" align="center"><a href = "https://github.com/VikSil/NC-news-backend-API">NC-news-backend-API</a></h3 >
 <p align="center">
 <img src="https://img.shields.io/github/created-at/VikSil/NC-news-backend-API" alt="Created At"/>&nbsp;
 <img src="https://img.shields.io/github/commit-activity/t/viksil/NC-news-backend-API" alt="Number of commits"/>&nbsp;
@@ -218,7 +218,7 @@
 </p>
 <br>
 
-<p style= "font-size:21px" align="center"><a href = "https://github.com/VikSil/NC-news-frontend">NC-news-frontend</a></p>
+<h3  align="center"><a href = "https://github.com/VikSil/NC-news-frontend">NC-news-frontend</a></h3 >
 <p align="center">
 <img src="https://img.shields.io/github/created-at/VikSil/NC-news-frontend" alt="Created At"/>&nbsp;
 <img src="https://img.shields.io/github/commit-activity/t/viksil/NC-news-frontend" alt="Number of commits"/>&nbsp;
@@ -241,7 +241,7 @@
 </p>
 <br>
 
-<p style= "font-size:21px" align="center"><a href = "https://github.com/VikSil/NC_katas_downloader">NC_katas_downloader</a></p>
+<h3   align="center"><a href = "https://github.com/VikSil/NC_katas_downloader">NC_katas_downloader</a></h3 >
 <p align="center">
 <img src="https://img.shields.io/github/created-at/VikSil/NC_katas_downloader" alt="Created At"/>&nbsp;
 <img src="https://img.shields.io/github/commit-activity/t/viksil/NC_katas_downloader" alt="Number of commits"/>&nbsp;
@@ -256,7 +256,7 @@
 </p>
 <br>
 
-<p style= "font-size:21px" align="center"><a href = "https://github.com/VikSil/RedBubble_Automation">RedBubble_Automation</a></p>
+<h3  align="center"><a href = "https://github.com/VikSil/RedBubble_Automation">RedBubble_Automation</a></h3 >
 <p align="center">
 <img src="https://img.shields.io/github/created-at/VikSil/RedBubble_Automation" alt="Created At"/>&nbsp;
 <img src="https://img.shields.io/github/commit-activity/t/viksil/RedBubble_Automation" alt="Number of commits"/>&nbsp;
@@ -275,7 +275,7 @@
 </p>
 <br>
 
-<p style= "font-size:21px" align="center"><a href = "https://github.com/VikSil/PowerShell_Public">PowerShell_Public</a></p>
+<h3  align="center"><a href = "https://github.com/VikSil/PowerShell_Public">PowerShell_Public</a></h3 >
 <p align="center">
 <img src="https://img.shields.io/github/created-at/VikSil/PowerShell_Public" alt="Created At"/>&nbsp;
 <img src="https://img.shields.io/github/commit-activity/t/viksil/PowerShell_Public" alt="Number of commits"/>&nbsp;
