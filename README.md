@@ -16,6 +16,13 @@
 [<img height="30" src="https://imgur.com/VzM5APj.png" />][StackOverflow]
 
 
+## Hosted Work
+
+<p align = "center">
+<a href = "http://viksil.pythonanywhere.com/statistics101"><img height= "285" src ="https://raw.githubusercontent.com/VikSil/Statistics101/trunk/quant/assets/GIF_demo.gif" alt="Statistics 101 website demo GIF"/><a>&nbsp;&nbsp;
+<a href = "http://nc-news-api-n397.onrender.com/api"><img height= "285" src="https://raw.githubusercontent.com/VikSil/NC-news-backend-API/main/assets/img/GIF_demo.gif" alt="NC News website demo GIF"/><a>
+</p>
+
 ## My Tech Stack
 
 <!-- Python -->
@@ -126,6 +133,7 @@
 <li style = "list-style-type: none">
 <img height="24"  alt="Python Anywhere" src="https://img.shields.io/badge/pythonanywhere%20-f6f6f6?style=flat-square&logo=pythonanywhere" />
 <img height="24"  alt="Render" src="https://img.shields.io/badge/Render-f6f6f6?style=flat-square&logo=render&logoColor=44dcb1" />
+<img height="24"  alt="netlify" src="https://img.shields.io/badge/netlify-white?style=flat-square&logo=netlify" />
 <img height="24"  alt="Aiven" src="https://img.shields.io/badge/Aiven-ff5d22?style=flat-square" />
 <img height="24"  alt="ElephantSQL" src="https://img.shields.io/badge/ElephantSQL-blue?style=flat-square" />
 </li>
@@ -237,7 +245,7 @@
 <img alt="AXIOS" src="https://img.shields.io/badge/AXIOS-f6f6f6?logo=axios&logoColor=%235A29E4" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-f6f6f6?style=flat-square&logo=css3&logoColor=%231572B6" /> 
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-f6f6f6?style=flat-square&logo=bootstrap" />
-<img alt="Render" src="https://img.shields.io/badge/Render-f6f6f6?style=flat-square&logo=render&logoColor=44dcb1" />
+<img alt="netlify" src="https://img.shields.io/badge/netlify-white?style=flat-square&logo=netlify" />
 </p>
 <br>
 
