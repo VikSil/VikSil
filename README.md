@@ -3,17 +3,20 @@
 * I studied Computer Science at Riga Technical University, graduating with a Bachelor's degree in 2006 and a Master's degree in 2008.
 * I worked as a system analyst in various projects between 2008 and 2013.
 * I started working in fintech in 2014, and have since worked in customer support, implementations and data analysis roles. I have always done very technical work.
-* I moved to the UK following a promotion in 2019 because my employer wanted me to work closer with the development team <br> (Oxford Boyz were awesome and I miss them).
-* In 2023 I got hired into an application support role at a company where support team management had long-standing conflicts with development team. <br>
-I found myself agreeing with the development team too often. When this employment abruptly ended, it was clear that I have outgrown support roles and need to transition into development.
+* I moved to the UK following a promotion in 2019 because my employer wanted me to work closer with the development team  (Oxford Boyz were awesome and I miss them).
+* In 2023 I got hired into an application support role at a company where support team management had long-standing conflicts with development team. I found myself agreeing with the development team too often. When this employment abruptly ended, it was clear that I have outgrown support roles and need to transition into development.
 * I had done some coding here and there over the years, but was never given the title. Furthermore, all of my work was proprietary - it belongs to my former employers and I am not legally allowed to show it to anyone, even to prove that I am able to code.
 * I have been building out my GitHub portfolio since July 2023 and have taken several programming courses to do so, including Harvard's CS50 Python and CS50 Web, and Software Engineering Bootcamp by Northcoders.
 
 
 
-## My Tech Stack
+## Social Networks
 
-### at a glance
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://imgur.com/VzM5APj.png" />][StackOverflow]
+
+
+## My Tech Stack
 
 <!-- Python -->
 <ul>
@@ -130,12 +133,17 @@ I found myself agreeing with the development team too often. When this employmen
 </ul>
 <br>
 
-### in repositories
+## Repo summary
 
-<table style="border:none">
-<tr >
-<td style="border:none"><p style= "font-size:21px"><a href = "https://github.com/VikSil/Statistics101">Statistics101:</a></p></td>
-<td >
+<p style= "font-size:21px" align="center"><a href = "https://github.com/VikSil/Statistics101">Statistics101</a></p>
+<p align="center">
+<img src="https://img.shields.io/github/created-at/VikSil/statistics101" alt="Created At"/>&nbsp;
+<img src="https://img.shields.io/github/commit-activity/t/viksil/Statistics101" alt="Number of commits"/>&nbsp;
+<img src="https://img.shields.io/github/last-commit/Viksil/statistics101" alt="Last commit"/>&nbsp;
+<img src="https://img.shields.io/github/languages/count/viksil/Statistics101" alt="Language count"/>&nbsp;
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
 <img src="https://img.shields.io/badge/django-103e2e?style=flat-square" alt="django"/>
 <img src="https://img.shields.io/badge/pandas-f6f6f6?style=flat-square&logo=pandas&logoColor=0d044d" alt="pandas"/>
@@ -150,11 +158,18 @@ I found myself agreeing with the development team too often. When this employmen
 <img alt="Dropzone" src="https://img.shields.io/badge/Dropzone-purple?style=flat-square" />
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003954?style=flat-square&logo=sqlite"/>
 <img alt="Python Anywhere" src="https://img.shields.io/badge/pythonanywhere%20-f6f6f6?style=flat-square&logo=pythonanywhere" />
-</td>
-</tr>
-<tr >
-<td style="border:none"><p style= "font-size:21px"><a href = "https://github.com/VikSil/CS50Web">CS50Web:</a></p></td>
-<td >
+</p>
+<br>
+
+<p style= "font-size:21px" align="center"><a href = "https://github.com/VikSil/CS50Web">CS50Web</a></p>
+<p align="center">
+<img src="https://img.shields.io/github/created-at/VikSil/cs50web" alt="Created At"/>&nbsp;
+<img src="https://img.shields.io/github/commit-activity/t/viksil/cs50web" alt="Number of commits"/>&nbsp;
+<img src="https://img.shields.io/github/last-commit/Viksil/cs50web" alt="Last commit"/>&nbsp;
+<img src="https://img.shields.io/github/languages/count/viksil/cs50web" alt="Language count"/>&nbsp;
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
 <img src="https://img.shields.io/badge/django-103e2e?style=flat-square" alt="django"/>
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
@@ -162,20 +177,34 @@ I found myself agreeing with the development team too often. When this employmen
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-f6f6f6?style=flat-square&logo=bootstrap" />
 <img src="https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> 
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003954?style=flat-square&logo=sqlite"/>
-</td>
-</tr>
-<tr >
-<td style="border:none"><p style= "font-size:21px"><a href = "https://github.com/VikSil/CS50Python">CS50Python:</a></p></td>
-<td>
+</p>
+<br>
+
+<p style= "font-size:21px" align="center"><a href = "https://github.com/VikSil/CS50Python">CS50Python</a></p>
+<p align="center">
+<img src="https://img.shields.io/github/created-at/VikSil/cs50python" alt="Created At"/>&nbsp;
+<img src="https://img.shields.io/github/commit-activity/t/viksil/cs50python" alt="Number of commits"/>&nbsp;
+<img src="https://img.shields.io/github/last-commit/Viksil/cs50python" alt="Last commit"/>&nbsp;
+<img src="https://img.shields.io/github/languages/count/viksil/cs50python" alt="Language count"/>&nbsp;
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
 <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
 <img alt="pytest" src="https://img.shields.io/badge/pytest-f6f6f6?logo=pytest" />
 <img src="https://img.shields.io/badge/Beautiful%20Soup-f6f6f6?style=flat-square" alt="Beautiful Soup"/>
-</td>
-</tr>
-<tr >
-<td style="border:none"><p style= "font-size:21px"><a href = "https://github.com/VikSil/NC-news-backend-API">NC-news-backend-API:</a></p></td>
-<td>
+</p>
+<br>
+
+<p style= "font-size:21px" align="center"><a href = "https://github.com/VikSil/NC-news-backend-API">NC-news-backend-API</a></p>
+<p align="center">
+<img src="https://img.shields.io/github/created-at/VikSil/NC-news-backend-API" alt="Created At"/>&nbsp;
+<img src="https://img.shields.io/github/commit-activity/t/viksil/NC-news-backend-API" alt="Number of commits"/>&nbsp;
+<img src="https://img.shields.io/github/last-commit/Viksil/NC-news-backend-API" alt="Last commit"/>&nbsp;
+<img src="https://img.shields.io/github/languages/count/viksil/NC-news-backend-API" alt="Language count"/>&nbsp;
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
 <img alt="Node.js" src="https://img.shields.io/badge/node.js-black?style=flat-square&logo=Node.js&logoColor=43853d" />  
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -186,11 +215,18 @@ I found myself agreeing with the development team too often. When this employmen
 <img src="https://img.shields.io/badge/API-orange?style=flat-square" alt="API"/>
 <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
 <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-</td>
-</tr>
-<tr >
-<td  style="border:none"><p style= "font-size:21px"><a href = "https://github.com/VikSil/NC-news-frontend">NC-news-frontend:</a></p></td>
-<td >
+</p>
+<br>
+
+<p style= "font-size:21px" align="center"><a href = "https://github.com/VikSil/NC-news-frontend">NC-news-frontend</a></p>
+<p align="center">
+<img src="https://img.shields.io/github/created-at/VikSil/NC-news-frontend" alt="Created At"/>&nbsp;
+<img src="https://img.shields.io/github/commit-activity/t/viksil/NC-news-frontend" alt="Number of commits"/>&nbsp;
+<img src="https://img.shields.io/github/last-commit/Viksil/NC-news-frontend" alt="Last commit"/>&nbsp;
+<img src="https://img.shields.io/github/languages/count/viksil/NC-news-frontend" alt="Language count"/>&nbsp;
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
 <img alt="Node.js" src="https://img.shields.io/badge/node.js-black?style=flat-square&logo=Node.js&logoColor=43853d" />  
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -202,19 +238,33 @@ I found myself agreeing with the development team too often. When this employmen
 <img alt="CSS" src="https://img.shields.io/badge/CSS-f6f6f6?style=flat-square&logo=css3&logoColor=%231572B6" /> 
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-f6f6f6?style=flat-square&logo=bootstrap" />
 <img alt="Render" src="https://img.shields.io/badge/Render-f6f6f6?style=flat-square&logo=render&logoColor=44dcb1" />
-</td>
-</tr>
-<tr >
-<td  style="border:none"><p style= "font-size:21px"><a href = "https://github.com/VikSil/NC_katas_downloader">NC_katas_downloader:</a></p></td>
-<td>
+</p>
+<br>
+
+<p style= "font-size:21px" align="center"><a href = "https://github.com/VikSil/NC_katas_downloader">NC_katas_downloader</a></p>
+<p align="center">
+<img src="https://img.shields.io/github/created-at/VikSil/NC_katas_downloader" alt="Created At"/>&nbsp;
+<img src="https://img.shields.io/github/commit-activity/t/viksil/NC_katas_downloader" alt="Number of commits"/>&nbsp;
+<img src="https://img.shields.io/github/last-commit/Viksil/NC_katas_downloader" alt="Last commit"/>&nbsp;
+<img src="https://img.shields.io/github/languages/count/viksil/NC_katas_downloader" alt="Language count"/>&nbsp;
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
 <img src="https://img.shields.io/badge/Beautiful%20Soup-f6f6f6?style=flat-square" alt="Beautiful Soup"/>
 <img src="https://img.shields.io/badge/Selenium-f6f6f6?style=flat-square&logo=selenium" alt="Selenium"/>
-</td>
-</tr>
-<tr>
-<td  style="border:none"><p style= "font-size:21px"><a href = "https://github.com/VikSil/RedBubble_Automation">RedBubble_Automation:</a></p></td>
-<td>
+</p>
+<br>
+
+<p style= "font-size:21px" align="center"><a href = "https://github.com/VikSil/RedBubble_Automation">RedBubble_Automation</a></p>
+<p align="center">
+<img src="https://img.shields.io/github/created-at/VikSil/RedBubble_Automation" alt="Created At"/>&nbsp;
+<img src="https://img.shields.io/github/commit-activity/t/viksil/RedBubble_Automation" alt="Number of commits"/>&nbsp;
+<img src="https://img.shields.io/github/last-commit/Viksil/RedBubble_Automation" alt="Last commit"/>&nbsp;
+<img src="https://img.shields.io/github/languages/count/viksil/RedBubble_Automation" alt="Language count"/>&nbsp;
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
 <img src="https://img.shields.io/badge/Selenium-f6f6f6?style=flat-square&logo=selenium" alt="Selenium"/>
 <img src="https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
@@ -222,29 +272,31 @@ I found myself agreeing with the development team too often. When this employmen
 <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
 <img alt="HuggingFace" src="https://img.shields.io/badge/Hugging%20Face-yellow?style=flat-square" />
 <img alt="Power Automate Desktop" src="https://img.shields.io/badge/Power%20Automate%20Desktop-f6f6f6?style=flat-square&logo=powerautomate&logoColor=blue" />
-</td>
-</tr>
-<tr >
-<td  style="border:none"><p style= "font-size:21px"><a href = "https://github.com/VikSil/PowerShell_Public">PowerShell_Public:</a></p></td>
-<td>
+</p>
+<br>
+
+<p style= "font-size:21px" align="center"><a href = "https://github.com/VikSil/PowerShell_Public">PowerShell_Public</a></p>
+<p align="center">
+<img src="https://img.shields.io/github/created-at/VikSil/PowerShell_Public" alt="Created At"/>&nbsp;
+<img src="https://img.shields.io/github/commit-activity/t/viksil/PowerShell_Public" alt="Number of commits"/>&nbsp;
+<img src="https://img.shields.io/github/last-commit/Viksil/PowerShell_Public" alt="Last commit"/>&nbsp;
+<img src="https://img.shields.io/github/languages/count/viksil/PowerShell_Public" alt="Language count"/>&nbsp;
+</p>
+
+<p align="center">
 <img alt="Windows PowerShell" src="https://img.shields.io/badge/Windows%20PowerShell-f6f6f6?style=flat-square&logo=powershell" />
-</td>
-</tr>
-</table>
+</p>
 
-
-## Social Networks
-
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src="https://imgur.com/VzM5APj.png" />][StackOverflow]
 
 
 ## GitHub Statistics
 
 <p align="center"> 
-<img width="533" src="https://github-readme-stats-lake-omega.vercel.app/api?username=VikSil&show_icons=true&line&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt=VikSil's GitHub Stats"/>&nbsp;&nbsp;&nbsp;
+<img width="533" src="https://github-readme-stats-lake-omega.vercel.app/api?username=VikSil&show_icons=true&hide=issues&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt=VikSil's GitHub Stats"/>&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikSil&layout=donut&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt="VikSil's Most Used Languages"/>
 </p>
+
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=VikSil&theme=midnight-purple" alt="VikSil's streak stats" /></p>
 
 <p align="center"> <img height="30" src="https://komarev.com/ghpvc/?username=VikSil&label=Profile%20views&style=flat-square" alt="Viksil's profile views" /> </p>
 
