@@ -307,7 +307,6 @@
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=VikSil&theme=midnight-purple" alt="VikSil's streak stats" /></p>
 
-<p align="center"> <img height="30" src="https://komarev.com/ghpvc/?username=VikSil&label=Profile%20views&style=flat-square" alt="Viksil's profile views" /> </p>
 
 <!-- LINKS -->
 [LinkedIn]: https://www.linkedin.com/in/viktoria-sudraba/
