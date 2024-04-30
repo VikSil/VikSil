@@ -307,6 +307,12 @@
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=VikSil&theme=midnight-purple" alt="VikSil's streak stats" /></p>
 
+## WakaTime Statistics
+
+<p align="center"> 
+<img height="533" width = "1000" src="https://wakatime.com/share/@VikSil/733e8ec4-172a-4eb5-9294-399b5e074f16.png" />
+<img height="533" src="https://wakatime.com/share/@VikSil/387dfc49-20f8-45f2-b3a5-5f5bfdce08fc.png" />
+</p>
 
 <!-- LINKS -->
 [LinkedIn]: https://www.linkedin.com/in/viktoria-sudraba/
