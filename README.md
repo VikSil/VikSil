@@ -24,7 +24,9 @@
 <a href = "http://nc-news-api-n397.onrender.com/api"><img height= "280" src="https://raw.githubusercontent.com/VikSil/NC-news-frontend/main/src/assets/img/GIF_demo.gif" alt="NC News website demo GIF"/></a>
 </p>
 
-## My Tech Stack
+## My Tech Stack 
+
+All of the below I have worked with at some point to varying degree of proficiency. Please inquiry if you need to know any specifics.
 
 <!-- Python -->
 <ul>
