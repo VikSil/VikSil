@@ -347,11 +347,9 @@ All of the below I have worked with at some point to varying degree of proficien
 ## GitHub Statistics
 
 <p align="center"> 
-<img height="210" src="https://github-readme-stats-lake-omega.vercel.app/api?username=VikSil&show_icons=true&hide=issues&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt=VikSil's GitHub Stats"/>&nbsp;&nbsp;&nbsp;
-<img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikSil&layout=donut&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt="VikSil's Most Used Languages"/>
-</p>
-
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=VikSil&theme=midnight-purple" alt="VikSil's streak stats" /></p>
+<img height="200" src="https://github-readme-stats-lake-omega.vercel.app/api?username=VikSil&show_icons=true&hide=issues&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt=VikSil's GitHub Stats"/>&nbsp;&nbsp;&nbsp;
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikSil&layout=donut&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt="VikSil's Most Used Languages"/>&nbsp;&nbsp;&nbsp;
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=VikSil&theme=midnight-purple" alt="VikSil's streak stats" /></p>
 <br>
 
 ## WakaTime Statistics
