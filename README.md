@@ -232,7 +232,7 @@ All of the below I have worked with at some point to varying degree of proficien
         </td>
         <td>
             <p align="center"><br>
-                Backend project sprint repo for Northcoders Software Development Bootcamp
+                Backend project sprint repo for Northcoders Software Development Bootcamp.
                 <br><br>
                 <img src="https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
                 <img alt="Node.js" src="https://img.shields.io/badge/node.js-black?style=flat-square&logo=Node.js&logoColor=43853d" />  
@@ -260,7 +260,7 @@ All of the below I have worked with at some point to varying degree of proficien
         </td>
         <td>
             <p align="center"><br>
-                Frontend project sprint repo for Northcoders Software Development Bootcamp
+                Frontend project sprint repo for Northcoders Software Development Bootcamp.
                 <br><br>
                 <img src="https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
                 <img alt="Node.js" src="https://img.shields.io/badge/node.js-black?style=flat-square&logo=Node.js&logoColor=43853d" />  
@@ -289,7 +289,7 @@ All of the below I have worked with at some point to varying degree of proficien
         </td>
         <td>
             <p align="center"><br>
-                Scripted auto-downloader for Northcoders Software Engineering Bootcamp exercises
+                Scripted auto-downloader for Northcoders Software Engineering Bootcamp exercises.
                 <br><br>
                 <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
                 <img src="https://img.shields.io/badge/Beautiful%20Soup-f6f6f6?style=flat-square" alt="Beautiful Soup"/>
@@ -310,7 +310,7 @@ All of the below I have worked with at some point to varying degree of proficien
         </td>
         <td>
             <p align="center"><br>
-                A collection of scripts to automate A.I. image generation, preparation and upload to Redbubble website
+                A collection of scripts to automate A.I. image generation, preparation and upload to Redbubble website.
                 <br><br>
                 <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
                 <img src="https://img.shields.io/badge/Selenium-f6f6f6?style=flat-square&logo=selenium" alt="Selenium"/>
@@ -347,8 +347,8 @@ All of the below I have worked with at some point to varying degree of proficien
 ## GitHub Statistics
 
 <p align="center"> 
-<img height="215" src="https://github-readme-stats-lake-omega.vercel.app/api?username=VikSil&show_icons=true&hide=issues&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt=VikSil's GitHub Stats"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikSil&layout=donut&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt="VikSil's Most Used Languages"/>
+<img height="210" src="https://github-readme-stats-lake-omega.vercel.app/api?username=VikSil&show_icons=true&hide=issues&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt=VikSil's GitHub Stats"/>&nbsp;&nbsp;&nbsp;
+<img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikSil&layout=donut&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt="VikSil's Most Used Languages"/>
 </p>
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=VikSil&theme=midnight-purple" alt="VikSil's streak stats" /></p>
