@@ -297,6 +297,7 @@ All of the below I have worked with at some point to varying degree of proficien
             </p>
         </td>
     </tr>
+    <!--
     <tr>
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/RedBubble_Automation">RedBubble_Automation</a></h3>
@@ -322,6 +323,7 @@ All of the below I have worked with at some point to varying degree of proficien
             </p>
         </td>
     </tr>
+    -->
     <tr>
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/PowerShell_Public">PowerShell_Public</a></h3>
