@@ -43,7 +43,13 @@ All of the below I have worked with at some point to varying degree of proficien
 <img height="24" src="https://img.shields.io/badge/Beautiful%20Soup-f6f6f6?style=flat-square" alt="Beautiful Soup"/>
 <img height="24" src="https://img.shields.io/badge/Selenium-f6f6f6?style=flat-square&logo=selenium" alt="Selenium"/>
 <img height="24" alt="pytest" src="https://img.shields.io/badge/pytest-f6f6f6?logo=pytest" />
+<img height="24" alt="pytest" src="https://img.shields.io/badge/Turtle-green?style=flat-square" />
+<img height="24" alt="pytest" src="https://img.shields.io/badge/tkinter-white?style=flat-square&logo=tkinter" />
 <img height="24" src="https://img.shields.io/badge/Black-black?style=flat-square" alt="Black"/>
+
+
+
+
 </li>
 </ul>
 <!-- JavaScript -->
@@ -220,6 +226,29 @@ All of the below I have worked with at some point to varying degree of proficien
             </p>
         </td>
     </tr>
+    <tr>
+        <td>
+            <h3 align="center"><a href = "https://github.com/VikSil/udemy_100_days_of_code">Udemy 100 Days of Code Python Bootcamp</a></h3>
+            <p align="center">
+                <img src="https://img.shields.io/github/created-at/VikSil/udemy_100_days_of_code" alt="Created At"/>&nbsp;
+                <img src="https://img.shields.io/github/last-commit/Viksil/udemy_100_days_of_code" alt="Last commit"/>
+                <br>
+                <img src="https://img.shields.io/github/commit-activity/t/viksil/udemy_100_days_of_code" alt="Number of commits"/>&nbsp;
+                <img src="https://img.shields.io/github/languages/count/viksil/udemy_100_days_of_code" alt="Language count"/>
+            </p>
+        </td>
+        <td>
+            <p align="center"><br>
+                Repository for 100 Days of Code: The Complete Python Pro Bootcamp by Udemy (ongoing).
+                <br><br>
+                <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
+                <img height="24" src="https://img.shields.io/badge/pandas-f6f6f6?style=flat-square&logo=pandas&logoColor=0d044d" alt="pandas"/>
+                <img height="24" alt="pytest" src="https://img.shields.io/badge/Turtle-green?style=flat-square" />
+                <img height="24" alt="pytest" src="https://img.shields.io/badge/tkinter-white?style=flat-square&logo=tkinter" />    
+                <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
+            </p>
+        </td>
+    </tr>    
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/NC-news-backend-API">NC-news-backend-API</a></h3>
             <p align="center">
