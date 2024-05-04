@@ -43,13 +43,9 @@ All of the below I have worked with at some point to varying degree of proficien
 <img height="24" src="https://img.shields.io/badge/Beautiful%20Soup-f6f6f6?style=flat-square" alt="Beautiful Soup"/>
 <img height="24" src="https://img.shields.io/badge/Selenium-f6f6f6?style=flat-square&logo=selenium" alt="Selenium"/>
 <img height="24" alt="pytest" src="https://img.shields.io/badge/pytest-f6f6f6?logo=pytest" />
-<img height="24" alt="pytest" src="https://img.shields.io/badge/Turtle-green?style=flat-square" />
-<img height="24" alt="pytest" src="https://img.shields.io/badge/tkinter-white?style=flat-square&logo=tkinter" />
+<img height="24" alt="turtle" src="https://img.shields.io/badge/Turtle-green?style=flat-square" />
+<img height="24" alt="tkinter" src="https://img.shields.io/badge/tkinter-white?style=flat-square&logo=tkinter" />
 <img height="24" src="https://img.shields.io/badge/Black-black?style=flat-square" alt="Black"/>
-
-
-
-
 </li>
 </ul>
 <!-- JavaScript -->
@@ -106,6 +102,9 @@ All of the below I have worked with at some point to varying degree of proficien
 <li style = "list-style-type: none">
 <img alt="HuggingFace" src="https://img.shields.io/badge/Hugging%20Face-yellow?style=flat-square" />
 <img alt="YahooFinance" src="https://img.shields.io/badge/yahooo!%20finance-purple?style=flat-square" />
+<img alt="polygon.io" src="https://img.shields.io/badge/poligon.io-%235C59F7?style=flat-square" />
+    
+
 </li>
 </ul>
 <li style = "list-style-type: none">
@@ -243,8 +242,8 @@ All of the below I have worked with at some point to varying degree of proficien
                 <br><br>
                 <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
                 <img height="24" src="https://img.shields.io/badge/pandas-f6f6f6?style=flat-square&logo=pandas&logoColor=0d044d" alt="pandas"/>
-                <img height="24" alt="pytest" src="https://img.shields.io/badge/Turtle-green?style=flat-square" />
-                <img height="24" alt="pytest" src="https://img.shields.io/badge/tkinter-white?style=flat-square&logo=tkinter" />    
+                <img height="24" alt="Turtle" src="https://img.shields.io/badge/Turtle-green?style=flat-square" />
+                <img height="24" alt="tkinter" src="https://img.shields.io/badge/tkinter-white?style=flat-square&logo=tkinter" />    
                 <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
             </p>
         </td>
