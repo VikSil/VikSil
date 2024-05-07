@@ -31,13 +31,13 @@
 All of the below I have worked with at some point to varying degree of proficiency. Please inquiry if you need to know any specifics.
 
 ### Python Ecosystem
-| Python3 | Django | Jupyter | Pandas | NumPy | Plotly | Mathplotlib | BeautifulSoup | Selenium | Pytest | Turtle |
-|----------|----------|----------|-----|-----|-----|-----|-----|-----|-----|-----|
-| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/></p> |  <p align="center"><img src="https://deviconapi.vercel.app/django?color=092A1F" title="Django"  alt="Django" width="55" height="55"/></p> |<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/></p> |  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" title="Plotly" alt="Plotly" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/></p>| <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/Beautiful_Soup_Logo.png" title="BeautifulSoup" alt="BeautifulSoup" width="105" /></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/></p>|  <p align="center"><img src="https://docs.python.org/3/_images/turtle-star.png" title="Turtle" alt="Turtle" width="55" height="55"/></p>| 
+| Python3 | Django | Jupyter | Pandas | NumPy | Plotly | Mathplotlib | BeautifulSoup | Selenium | Pytest | 
+|----------|----------|----------|-----|-----|-----|-----|-----|-----|-----|
+| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/></p> |  <p align="center"><img src="https://deviconapi.vercel.app/django?color=092A1F" title="Django"  alt="Django" width="55" height="55"/></p> |<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/></p> |  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" title="Plotly" alt="Plotly" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/></p>| <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/Beautiful_Soup_Logo.png" title="BeautifulSoup" alt="BeautifulSoup" width="105" /></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/></p>|
 
- | Tkinter |
- |-----|
- | <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Feather_on_blue_tile.png" title="Tkinter" alt="Tkinter" width="55" height="55"/></p>|
+ | Turtle | Tkinter |
+ |-----|-----|
+ |   <p align="center"><img src="https://docs.python.org/3/_images/turtle-star.png" title="Turtle" alt="Turtle" width="55" height="55"/></p>|  <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Feather_on_blue_tile.png" title="Tkinter" alt="Tkinter" width="55" height="55"/></p>|
 
 ### Javascript Ecosystem
 | JavaScript | NPM | Express.js | Jest | MathJax | Dropzone.js | React.js | React Router |
@@ -307,8 +307,8 @@ All of the below I have worked with at some point to varying degree of proficien
 [![trophy](https://github-profile-trophy.vercel.app/?username=viksil&title=MultipleLang,Commits,PullRequest,Experience,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center"> 
-<img height="180" src="https://github-readme-stats-lake-omega.vercel.app/api?username=VikSil&show_icons=true&hide=issues&theme=dracula" alt=VikSil's GitHub Stats"/>&nbsp;&nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=VikSil&theme=dracula" alt="VikSil's streak stats" /></p>
+<img height="150" src="https://github-readme-stats-lake-omega.vercel.app/api?username=VikSil&show_icons=true&hide=issues&theme=dracula" alt=VikSil's GitHub Stats"/>&nbsp;&nbsp;&nbsp;
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=VikSil&theme=dracula" alt="VikSil's streak stats" /></p>
 <br>
 
 <p align="center"> 
