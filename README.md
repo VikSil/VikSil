@@ -43,6 +43,13 @@ All of the below I have worked with at some point to varying degree of proficien
 |----------|
 | <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell"  alt="Powershell" width="55" height="55"/></p>|
 
+
+### Databases
+| Oracle PL/SQL | MS SQL Server | PostgreSQL | MySQL | SQLite |
+|----------|----------|----------|-----|-----|
+| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="MSSQL"  alt="MSSQL" width="55" height="55"/></p> |<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="55" height="55"/></p> |  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="55" height="55"/></p>|
+
+
 ### Web
 | HTML | CSS | Bootstrap | Sass |
 |----------|----------|----------|-----|
@@ -53,12 +60,6 @@ All of the below I have worked with at some point to varying degree of proficien
 | Json | Axios | Insomnia | Postman | HuggingFace | yahoo! finance | Poligon.io | XML |
 |----------|----------|----------|-----|-----|-----|-----|-----|
 | <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="Json"  alt="Json" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios"  alt="Axios" width="55" height="55"/></p> |<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" title="Insomnia"  alt="Insomnia" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="55" height="55"/></p> |  <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/HuggingFace_Logo.png" title="HuggingFace"  alt="HuggingFace" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/yahoo_finance_Logo.png" title="yahoo finance"  alt="yahoo finance" width="55" height="55"/></p>|  <p align="center"><img src="https://avatars.githubusercontent.com/u/25178434?s=200&v=4" title="Poligon.io"  alt="Poligon.io" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="XML"  alt="XML" width="55" height="55"/></p>|
-
-
-### Databases
-| Oracle PL/SQL | MS SQL Server | PostgreSQL | MySQL | SQLite |
-|----------|----------|----------|-----|-----|
-| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="MSSQL"  alt="MSSQL" width="55" height="55"/></p> |<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="55" height="55"/></p> |  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="55" height="55"/></p>|
 
 
 ### Tools
