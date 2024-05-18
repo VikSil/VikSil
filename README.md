@@ -57,9 +57,14 @@ All of the below I have worked with at some point to varying degree of proficien
 
 
 ### API
-| Json | Axios | Insomnia | Postman | HuggingFace | yahoo! finance | Poligon.io | XML |
-|----------|----------|----------|-----|-----|-----|-----|-----|
-| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="Json"  alt="Json" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios"  alt="Axios" width="55" height="55"/></p> |<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" title="Insomnia"  alt="Insomnia" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="55" height="55"/></p> |  <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/HuggingFace_Logo.png" title="HuggingFace"  alt="HuggingFace" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/yahoo_finance_Logo.png" title="yahoo finance"  alt="yahoo finance" width="55" height="55"/></p>|  <p align="center"><img src="https://avatars.githubusercontent.com/u/25178434?s=200&v=4" title="Poligon.io"  alt="Poligon.io" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="XML"  alt="XML" width="55" height="55"/></p>|
+| Json | Axios | Insomnia | Postman | yahoo! finance | Poligon.io | Rapid API | Twilio | Sheety |
+|----------|----------|----------|-----|-----|-----|-----|-----|-----|
+| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="Json"  alt="Json" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios"  alt="Axios" width="55" height="55"/></p> |<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" title="Insomnia"  alt="Insomnia" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="55" height="55"/></p> | <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/yahoo_finance_Logo.png" title="yahoo finance"  alt="yahoo finance" width="55" height="55"/></p>|  <p align="center"><img src="https://avatars.githubusercontent.com/u/25178434?s=200&v=4" title="Poligon.io"  alt="Poligon.io" width="55" height="55"/></p>| <p align="center"><img src="https://avatars.githubusercontent.com/u/16919504?s=200&v=4" title="Rapid API"  alt="Rapid API" width="55" height="55"/></p>| <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/Twilio_Logo.png" title="Twilio"  alt="Twilio" width="55" height="55"/></p>| <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/Sheety_Logo.png" title="Sheety"  alt="Sheety" width="55" height="55"/></p>|
+
+
+| HuggingFace | XML |
+|-----|-----|
+| <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/HuggingFace_Logo.png" title="HuggingFace"  alt="HuggingFace" width="55" height="55"/></p>| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="XML"  alt="XML" width="55" height="55"/></p>|
 
 
 ### Tools
@@ -147,7 +152,7 @@ All of the below I have worked with at some point to varying degree of proficien
                 <br><br>
                 <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
                 <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
-                <img alt="pytest" src="https://img.shields.io/badge/pytest-f6f6f6?logo=pytest" />
+                <img alt="pytest" src="https://img.shields.io/badge/pytest-f6f6f6?style=flat-square&logo=pytest" />
                 <img src="https://img.shields.io/badge/Beautiful%20Soup-f6f6f6?style=flat-square" alt="Beautiful Soup"/>
             </p>
         </td>
@@ -168,10 +173,19 @@ All of the below I have worked with at some point to varying degree of proficien
                 Repository for 100 Days of Code: The Complete Python Pro Bootcamp by Udemy (ongoing).
                 <br><br>
                 <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
-                <img height="24" src="https://img.shields.io/badge/pandas-f6f6f6?style=flat-square&logo=pandas&logoColor=0d044d" alt="pandas"/>
-                <img height="24" alt="Turtle" src="https://img.shields.io/badge/Turtle-green?style=flat-square" />
-                <img height="24" alt="tkinter" src="https://img.shields.io/badge/tkinter-white?style=flat-square&logo=tkinter" />    
+                <img src="https://img.shields.io/badge/pandas-f6f6f6?style=flat-square&logo=pandas&logoColor=0d044d" alt="pandas"/>
+                <img alt="smptplib" src="https://img.shields.io/badge/smtplib-blue?style=flat-square" />
+                <img alt="environ" src="https://img.shields.io/badge/environ-black?style=flat-square" />
+                <img alt="Turtle" src="https://img.shields.io/badge/Turtle-green?style=flat-square" />
+                <img alt="tkinter" src="https://img.shields.io/badge/tkinter-white?style=flat-square&logo=tkinter" />
+                <img alt="requests" src="https://img.shields.io/badge/requests-gray?style=flat-square" />
                 <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
+                <img alt="Twilio" src="https://img.shields.io/badge/twilio-white?style=flat-square&logo=twilio" />
+                <img alt="Alpha Vantage" src="https://img.shields.io/badge/Alpha%20Vantage-%235CC7B2?style=flat-square" />
+                <img alt="Rapid API" src="https://img.shields.io/badge/Rapid%20API-%230052D2?style=flat-square" />
+                <img alt="Sheety" src="https://img.shields.io/badge/Sheety-%2334A853?style=flat-square" />
+                <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
+                <img alt="CSS" src="https://img.shields.io/badge/CSS-f6f6f6?style=flat-square&logo=css3&logoColor=%231572B6" /> 
             </p>
         </td>
     </tr>    
@@ -224,7 +238,7 @@ All of the below I have worked with at some point to varying degree of proficien
                 <img alt="React Router" src="https://img.shields.io/badge/React_Router-black?style=flat-square&logo=react-router&logoColor=CA4245"/>
                 <img src="https://img.shields.io/badge/API-orange?style=flat-square" alt="API"/>
                 <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
-                <img alt="AXIOS" src="https://img.shields.io/badge/AXIOS-f6f6f6?logo=axios&logoColor=%235A29E4" />
+                <img alt="AXIOS" src="https://img.shields.io/badge/AXIOS-f6f6f6?style=flat-square&logo=axios?&logoColor=%235A29E4" />
                 <img alt="CSS" src="https://img.shields.io/badge/CSS-f6f6f6?style=flat-square&logo=css3&logoColor=%231572B6" /> 
                 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-f6f6f6?style=flat-square&logo=bootstrap" />
                 <img alt="netlify" src="https://img.shields.io/badge/netlify-white?style=flat-square&logo=netlify" />
