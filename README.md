@@ -164,7 +164,7 @@ All of the below I have worked with at some point to varying degree of proficien
         </td>
         <td>
             <p align="center"><br>
-                Capstone project for Harvard's CS50 Web course. The website explores the basics of statistics.<br><br>
+                Backend for an explorative hobby project aimed at proof of concept finance system implementation (ongoing).<br><br>
                 <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
                 <img src="https://img.shields.io/badge/django-103e2e?style=flat-square" alt="django"/>
                 <img src="https://img.shields.io/badge/pandas-f6f6f6?style=flat-square&logo=pandas&logoColor=0d044d" alt="pandas"/>
