@@ -68,13 +68,13 @@ All of the below I have worked with at some point to varying degree of proficien
 
 
 ### Tools
-| VS Code | git | Jira | Confluence | Trello |  Power Automate Desktop | Power BI | Grafana | MS Excel | Wireshark | Virtual Box |
-|----------|----------|----------|-----|-----|-----|-----|-----|-----|-----|-----|
-| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="55" height="55"/></p>| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira"  alt="Jira" width="55" height="55"/></p>| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence"  alt="Confluence" width="55" height="55"/></p> | <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello"  alt="Trello" width="55" height="55"/></p>| <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/Power_Automate_Desktop_Logo.png" title="Power Automate Desktop"  alt="Power Automate Desktop" width="55" height="55"/></p> |<p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/MS_Power_BI_Logo.png" title="Power_BI"  alt="Power_BI" width="85" height="55"/></p>|<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana"  alt="Grafana" width="85" height="55"/></p>|  <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/MS_Excel_Logo.png" title="MS Excel"  alt="MS Excel" width="80" height="55"/></p> |  <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" title="Wireshark"  alt="Wireshark" width="55" height="55"/></p>| <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/Virtual_Box_Logo.png" title="Virtual Box"  alt="Virtual Box" width="55" height="55"/></p>| 
+| VS Code | git | Jira | Confluence | Trello |  Power<br>Automate<br>Desktop | Power BI | Grafana | MS Excel |
+|----------|----------|----------|-----|-----|-----|-----|-----|-----|
+| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="55" height="55"/></p>| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55"/>| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira"  alt="Jira" width="55" height="55"/></p>| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence"  alt="Confluence" width="55" height="55"/></p> | <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello"  alt="Trello" width="55" height="55"/></p>| <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/Power_Automate_Desktop_Logo.png" title="Power Automate Desktop"  alt="Power Automate Desktop" width="55" height="55"/></p> |<p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/MS_Power_BI_Logo.png" title="Power_BI"  alt="Power_BI" width="85" height="55"/></p>|<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana"  alt="Grafana" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/MS_Excel_Logo.png" title="MS Excel"  alt="MS Excel" width="80" height="55"/></p> | 
 
-|  Filezilla | Adobe Photoshop |
-|----------|----------|
-| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" title="Filezilla"  alt="Filezilla" width="55" height="55"/></p>| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop"  alt="Photoshop" width="55" height="55"/></p>|
+| Wireshark | Virtual Box |  Filezilla | Adobe Photoshop |
+|----------|----------|----------|----------|
+| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" title="Wireshark"  alt="Wireshark" width="55" height="55"/></p>| <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/Virtual_Box_Logo.png" title="Virtual Box"  alt="Virtual Box" width="55" height="55"/></p>| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" title="Filezilla"  alt="Filezilla" width="55" height="55"/></p>| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop"  alt="Photoshop" width="55" height="55"/></p>|
 
 ### Hosting
 | pythonanywhere | Render | netlify | Aiven | ElephantSQL |
@@ -86,7 +86,7 @@ All of the below I have worked with at some point to varying degree of proficien
 ## Public Repo Summary
 
 <table>
-    <tr>
+     <tr>
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/Statistics101">Statistics101</a></h3>
             <p align="center"><img src="https://img.shields.io/github/created-at/VikSil/statistics101" alt="Created At"/>&nbsp;<img src="https://img.shields.io/github/last-commit/Viksil/statistics101" alt="Last commit"/><br><img src="https://img.shields.io/github/commit-activity/t/viksil/Statistics101" alt="Number of commits"/>&nbsp;<img src="https://img.shields.io/github/languages/count/viksil/Statistics101" alt="Language count"/></p>
@@ -157,6 +157,26 @@ All of the below I have worked with at some point to varying degree of proficien
             </p>
         </td>
     </tr>
+     <tr>
+        <td>
+            <h3 align="center"><a href = "https://github.com/VikSil/howtoquant-backend">How To Quant (backend)</a></h3>
+            <p align="center"><img src="https://img.shields.io/github/created-at/VikSil/howtoquant-backend" alt="Created At"/>&nbsp;<img src="https://img.shields.io/github/last-commit/Viksil/howtoquant-backend" alt="Last commit"/><br><img src="https://img.shields.io/github/commit-activity/t/viksil/howtoquant-backend" alt="Number of commits"/>&nbsp;<img src="https://img.shields.io/github/languages/count/viksil/howtoquant-backend" alt="Language count"/></p>
+        </td>
+        <td>
+            <p align="center"><br>
+                Capstone project for Harvard's CS50 Web course. The website explores the basics of statistics.<br><br>
+                <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
+                <img src="https://img.shields.io/badge/django-103e2e?style=flat-square" alt="django"/>
+                <img src="https://img.shields.io/badge/pandas-f6f6f6?style=flat-square&logo=pandas&logoColor=0d044d" alt="pandas"/>
+                <img  alt="API" src="https://img.shields.io/badge/API-orange?style=flat-square"/>
+                <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
+                <img alt="Yahoo Finance" src="https://img.shields.io/badge/Yahoo%20Finance-%23201246?style=flat-square" />
+                <img alt="Polygon.io" src="https://img.shields.io/badge/Polygon.io-%235F5CFF?style=flat-square" />
+                <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23E48E00?style=flat-square&logo=mysql&logoColor=%234479A1" />
+                <img alt="Aiven" src="https://img.shields.io/badge/aiven-%23FF3554%20?style=flat-square" />
+            </p>
+        </td>
+    </tr>
     <tr>
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/udemy_100_days_of_code">Udemy 100 Days of Code Python Bootcamp</a></h3>
@@ -210,7 +230,7 @@ All of the below I have worked with at some point to varying degree of proficien
                 <img alt="Jest" src="https://img.shields.io/badge/Jest-f6f6f6?style=flat-square&logo=jest&logoColor=944058"/>
                 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-f6f6f6?style=flat-square&logo=postgresql"/>
                 <img alt="ElephantSQL" src="https://img.shields.io/badge/ElephantSQL-blue?style=flat-square" />
-                <img src="https://img.shields.io/badge/API-orange?style=flat-square" alt="API"/>
+                <img  alt="API" src="https://img.shields.io/badge/API-orange?style=flat-square"/>
                 <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
                 <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
             </p>
