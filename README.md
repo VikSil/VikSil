@@ -6,7 +6,8 @@
 * I moved to the UK following a promotion in 2019 because my employer wanted me to work closer with the development team  (Oxford Boyz were awesome and I miss them).
 * In 2023 I got hired into an application support role at a company where the support team management had a long-standing conflicts with the development team. I found myself agreeing with the development team too often. When this employment abruptly ended, it was clear that I have outgrown support roles and need to transition into development.
 * I had done some coding here and there over the years, but was never given the title. Furthermore, all of my work was proprietary - it belongs to my former employers and I am not legally allowed to show it to anyone, even to prove that I am able to code.
-* I have been building out my GitHub portfolio since July 2023 and have taken several programming courses to do so, including Harvard's CS50 Python and CS50 Web, and Software Engineering Bootcamp by Northcoders.
+* I have been building out my GitHub portfolio since July 2023 and have taken several programming courses to do so, including Harvard's [CS50 Python](https://github.com/VikSil/CS50Python), [CS50 Web](https://github.com/VikSil/CS50Web), [Rust course on freeCodeCamp](https://github.com/VikSil/freecodecamp_rust_course) and [Software Engineering Bootcamp by Northcoders](https://github.com/VikSil/NC-news-frontend).
+* I am currently building a [proof of concept system/website](www.howtoquant.com) that combines my past experiences and newly acquired development skills, while looking for work opportunities in the industry.
 <br>
 
 
@@ -39,9 +40,9 @@ All of the below I have worked with at some point to varying degree of proficien
 | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/></p> |  <p align="center"><img src="https://deviconapi.vercel.app/npm?color=CB3837" title="npm"  alt="npm" width="55" height="55"/></p> |<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express.js"  alt="express.js" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest"  alt="Jest" width="55" height="55"/></p> |  <p align="center"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/MathJax.svg/1280px-MathJax.svg.png" title="MathJax"  alt="MathJax" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/Dropzone_Logo.png" title="Dropzone.js"  alt="Dropzone.js" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js"  alt="React.js" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React Router"  alt="React Router" width="55" height="55" /></p> |
 
 ### Other Languages
-| MS Powershell |
-|----------|
-| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell"  alt="Powershell" width="55" height="55"/></p>|
+| MS Powershell | Rust |
+|----------|----------|
+| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell"  alt="Powershell" width="55" height="55"/></p>| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust"  alt="Rust" width="55" height="55"/></p>|
 
 
 ### Databases
@@ -313,6 +314,25 @@ All of the below I have worked with at some point to varying degree of proficien
         </td>
     </tr>
     -->
+    <tr>
+        <td>
+            <h3 align="center"><a href = "https://github.com/VikSil/freecodecamp_rust_course">freecodecamp_rust_course</a></h3>
+            <p align="center">
+                <img src="https://img.shields.io/github/created-at/VikSil/freecodecamp_rust_course" alt="Created At"/>&nbsp;
+                <img src="https://img.shields.io/github/last-commit/Viksil/freecodecamp_rust_course" alt="Last commit"/>
+                <br>
+                <img src="https://img.shields.io/github/commit-activity/t/viksil/freecodecamp_rust_course" alt="Number of commits"/>&nbsp;
+                <img src="https://img.shields.io/github/languages/count/viksil/freecodecamp_rust_course" alt="Language count"/>
+            </p>
+        </td>
+        <td>
+            <p align="center"><br>
+                Repository of code produced while taking Rust course on freeCodeCamp.
+                <br><br>
+                <img alt="Rust" src="https://img.shields.io/badge/Rust-f6f6f6?style=flat-square&logo=rust&logoColor=black" />
+            </p>
+        </td>
+    </tr>
     <tr>
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/PowerShell_Public">PowerShell_Public</a></h3>
