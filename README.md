@@ -323,6 +323,8 @@ All of the below I have worked with at some point to varying degree of proficien
                 <br>
                 <img src="https://img.shields.io/github/commit-activity/t/viksil/freecodecamp_rust_course" alt="Number of commits"/>&nbsp;
                 <img src="https://img.shields.io/github/languages/count/viksil/freecodecamp_rust_course" alt="Language count"/>
+                <br>
+                <img src="https://wakatime.com/badge/github/VikSil/freecodecamp_learn_rust_programming.svg" alt="Total Time"/>
             </p>
         </td>
         <td>
