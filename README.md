@@ -180,6 +180,25 @@ All of the below I have worked with at some point to varying degree of proficien
     </tr>
     <tr>
         <td>
+            <h3 align="center"><a href = "https://github.com/VikSil/howtoquant-frontend">How To Quant (frontend)</a></h3>
+            <p align="center"><img src="https://img.shields.io/github/created-at/VikSil/howtoquant-frontend" alt="Created At"/>&nbsp;<img src="https://img.shields.io/github/last-commit/Viksil/howtoquant-frontend" alt="Last commit"/><br><img src="https://img.shields.io/github/commit-activity/t/viksil/howtoquant-frontend" alt="Number of commits"/>&nbsp;<img src="https://img.shields.io/github/languages/count/viksil/howtoquant-frontend" alt="Language count"/></p>
+        </td>
+        <td>
+            <p align="center"><br>
+                Frontend for an explorative hobby project aimed at proof of concept finance system implementation (ongoing).<br><br>
+                <img src="https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+                <img alt="React" src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=%2361DAFB" />
+                <img alt="React Router" src="https://img.shields.io/badge/React_Router-black?style=flat-square&logo=react-router&logoColor=CA4245"/>
+                <img src="https://img.shields.io/badge/API-orange?style=flat-square" alt="API"/>
+                <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
+                <img alt="AXIOS" src="https://img.shields.io/badge/AXIOS-f6f6f6?style=flat-square&logo=axios?&logoColor=%235A29E4" />
+                <img alt="CSS" src="https://img.shields.io/badge/CSS-f6f6f6?style=flat-square&logo=css3&logoColor=%231572B6" /> 
+                <img alt="netlify" src="https://img.shields.io/badge/netlify-white?style=flat-square&logo=netlify" />
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <h3 align="center"><a href = "https://github.com/VikSil/udemy_100_days_of_code">Udemy 100 Days of Code Python Bootcamp</a></h3>
             <p align="center">
                 <img src="https://img.shields.io/github/created-at/VikSil/udemy_100_days_of_code" alt="Created At"/>&nbsp;
