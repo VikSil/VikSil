@@ -15,8 +15,7 @@
 
 <p align = "center">
 <a href = "http://viksil.pythonanywhere.com/statistics101"><img height= "280" src ="https://raw.githubusercontent.com/VikSil/Statistics101/trunk/quant/assets/GIF_demo.gif" alt="Statistics 101 website demo GIF"/></a>&nbsp;&nbsp;
-<a href = "https://howtoquant.com/"><img height= "280" src="https://raw.githubusercontent.com/VikSil/howtoquant-frontend/trunk/src/assets/img/GIF_demo.gif" alt="How to Quant demo GIF"/></a>&nbsp;&nbsp;
-<a href = "https://ncnews-by-viksil.netlify.app"><img height= "280" src="https://raw.githubusercontent.com/VikSil/NC-news-frontend/main/src/assets/img/GIF_demo.gif" alt="NC News website demo GIF"/></a>
+<a href = "https://howtoquant.com/"><img height= "280" src="https://raw.githubusercontent.com/VikSil/howtoquant-frontend/trunk/src/assets/img/GIF_demo.gif" alt="How to Quant demo GIF"/></a>
 </p>
 <br>
 
