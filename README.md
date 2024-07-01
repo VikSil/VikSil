@@ -1,5 +1,7 @@
 # Hi, my name is Vik <img height = "30" src="https://github.com/VikSil/VikSil/blob/trunk/img/Telegram_Fox.gif"/>
 
+__Fun Fact__:  my surname means Silver in my native language. I'm a little silver fox.
+
 * I studied Computer Science at Riga Technical University, graduating with a Bachelor's degree in 2006 and a Master's degree in 2008.
 * I worked as a system analyst in various projects between 2008 and 2013.
 * I started working in fintech in 2014, and have since worked in customer support, implementations and data analysis roles. I have always done very technical work.
@@ -7,7 +9,7 @@
 * In 2023 I got hired into an application support role at a company where the support team management had a long-standing conflicts with the development team. I found myself agreeing with the development team too often. When this employment abruptly ended, it was clear that I have outgrown support roles and need to transition into development.
 * I had done some coding here and there over the years, but was never given the title. Furthermore, all of my work was proprietary - it belongs to my former employers and I am not legally allowed to show it to anyone, even to prove that I am able to code.
 * I have been building out my GitHub portfolio since July 2023 and have taken several programming courses to do so, including Harvard's [CS50 Python](https://github.com/VikSil/CS50Python), [CS50 Web](https://github.com/VikSil/CS50Web), [Rust course on freeCodeCamp](https://github.com/VikSil/freecodecamp_rust_course) and [Software Engineering Bootcamp by Northcoders](https://github.com/VikSil/NC-news-frontend).
-* I am currently building a [proof of concept system/website](www.howtoquant.com) that combines my past experiences and newly acquired development skills, while looking for work opportunities in the industry.
+* I am currently working through [100 Days of Code](https://github.com/VikSil/udemy_100_days_of_code) Python course by Udemy, as well as building a [proof of concept system/website](www.howtoquant.com) that combines my past experiences and newly acquired development skills, while looking for work opportunities in the industry.
 <br>
 
 
