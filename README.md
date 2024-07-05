@@ -41,9 +41,9 @@ All of the below I have worked with at some point to varying degree of proficien
 | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/></p> |  <p align="center"><img src="https://deviconapi.vercel.app/npm?color=CB3837" title="npm"  alt="npm" width="55" height="55"/></p> |<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express.js"  alt="express.js" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest"  alt="Jest" width="55" height="55"/></p> |  <p align="center"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/MathJax.svg/1280px-MathJax.svg.png" title="MathJax"  alt="MathJax" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/Dropzone_Logo.png" title="Dropzone.js"  alt="Dropzone.js" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js"  alt="React.js" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React Router"  alt="React Router" width="55" height="55" /></p> |
 
 ### Other Languages
-| MS Powershell | Rust |
-|----------|----------|
-| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell"  alt="Powershell" width="55" height="55"/></p>| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust"  alt="Rust" width="55" height="55"/></p>|
+| Bash | MS Powershell | Rust |
+|----------|----------|----------|
+| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash"  alt="Bash" width="55" height="55"/></p>| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell"  alt="Powershell" width="55" height="55"/></p>| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust"  alt="Rust" width="55" height="55"/></p>|
 
 
 ### Databases
@@ -82,6 +82,12 @@ All of the below I have worked with at some point to varying degree of proficien
 | pythonanywhere | Render | netlify | Aiven | ElephantSQL |
 |----------|----------|----------|-----|-----|
 | <p align="center"> <img src="https://avatars.githubusercontent.com/u/181511?s=200&v=4" title="pythonanywhere"  alt="pythonanywhere" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/Render_Logo.png" title="Render"  alt="Render" width="55" height="55"/></p> |<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original-wordmark.svg" title="netlify"  alt="netlify" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/Aiven_Logo.png" title="Aiven"  alt="Aiven" width="55" height="55"/></p> |  <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/ElephantSQL_Logo.png" title="ElephantSQL"  alt="ElephantSQL" width="55" height="55"/></p>|
+
+### Operating Systems
+| GNU/Linux | MS Windows |
+|----------|----------|
+| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="55" height="55"/></p>| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows"  alt="Windows" width="55" height="55"/></p>|
+
 
 <br>
 
