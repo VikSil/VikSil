@@ -378,6 +378,24 @@ All of the below I have worked with at some point to varying degree of proficien
             </p>
         </td>
     </tr>
+    <tr>
+        <td>
+            <h3 align="center"><a href = "https://github.com/VikSil/PowerBI_Public">PowerBI_Public</a></h3>
+            <p align="center">
+                <img src="https://img.shields.io/github/created-at/VikSil/PowerBI_Public" alt="Created At"/>&nbsp;
+                <img src="https://img.shields.io/github/last-commit/Viksil/PowerBI_Public" alt="Last commit"/>
+                <br>
+                <img src="https://img.shields.io/github/commit-activity/t/viksil/PowerBI_Public" alt="Number of commits"/>&nbsp;
+            </p>
+        </td>
+        <td>
+            <p align="center"><br>
+                Repository of PowerBI presentations.
+                <br><br>
+                <img alt="Microsoft PowerBI" src="https://img.shields.io/badge/Microsoft%20PowerBI-ffcf40?style=flat-square" />
+            </p>
+        </td>
+    </tr>
 </table>
 <br>
 
