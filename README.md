@@ -401,8 +401,6 @@ All of the below I have worked with at some point to varying degree of proficien
 
 ## Statistics
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=viksil&title=MultipleLang,Commits,PullRequest,Experience,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="center"> 
 <img height="150" src="https://github-readme-stats-lake-omega.vercel.app/api?username=VikSil&show_icons=true&hide=issues&theme=dracula" alt=VikSil's GitHub Stats"/>&nbsp;&nbsp;&nbsp;
 <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=VikSil&theme=dracula" alt="VikSil's streak stats" /></p>
