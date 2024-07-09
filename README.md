@@ -94,7 +94,46 @@ All of the below I have worked with at some point to varying degree of proficien
 ## Public Repo Summary
 
 <table>
-     <tr>
+  <tr>
+        <td>
+            <h3 align="center"><a href = "https://github.com/VikSil/howtoquant-backend">How To Quant (backend)</a></h3>
+            <p align="center"><img src="https://img.shields.io/github/created-at/VikSil/howtoquant-backend" alt="Created At"/>&nbsp;<img src="https://img.shields.io/github/last-commit/Viksil/howtoquant-backend" alt="Last commit"/><br><img src="https://img.shields.io/github/commit-activity/t/viksil/howtoquant-backend" alt="Number of commits"/>&nbsp;<img src="https://img.shields.io/github/languages/count/viksil/howtoquant-backend" alt="Language count"/></p>
+        </td>
+        <td>
+            <p align="center"><br>
+                Backend for an explorative hobby project aimed at proof of concept finance system implementation (ongoing).<br><br>
+                <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
+                <img src="https://img.shields.io/badge/django-103e2e?style=flat-square" alt="django"/>
+                <img src="https://img.shields.io/badge/pandas-f6f6f6?style=flat-square&logo=pandas&logoColor=0d044d" alt="pandas"/>
+                <img  alt="API" src="https://img.shields.io/badge/API-orange?style=flat-square"/>
+                <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
+                <img alt="Yahoo Finance" src="https://img.shields.io/badge/Yahoo%20Finance-%23201246?style=flat-square" />
+                <img alt="Polygon.io" src="https://img.shields.io/badge/Polygon.io-%235F5CFF?style=flat-square" />
+                <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23E48E00?style=flat-square&logo=mysql&logoColor=%234479A1" />
+                <img alt="Aiven" src="https://img.shields.io/badge/aiven-%23FF3554%20?style=flat-square" />
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3 align="center"><a href = "https://github.com/VikSil/howtoquant-frontend">How To Quant (frontend)</a></h3>
+            <p align="center"><img src="https://img.shields.io/github/created-at/VikSil/howtoquant-frontend" alt="Created At"/>&nbsp;<img src="https://img.shields.io/github/last-commit/Viksil/howtoquant-frontend" alt="Last commit"/><br><img src="https://img.shields.io/github/commit-activity/t/viksil/howtoquant-frontend" alt="Number of commits"/>&nbsp;<img src="https://img.shields.io/github/languages/count/viksil/howtoquant-frontend" alt="Language count"/></p>
+        </td>
+        <td>
+            <p align="center"><br>
+                Frontend for an explorative hobby project aimed at proof of concept finance system implementation (ongoing).<br><br>
+                <img src="https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+                <img alt="React" src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=%2361DAFB" />
+                <img alt="React Router" src="https://img.shields.io/badge/React_Router-black?style=flat-square&logo=react-router&logoColor=CA4245"/>
+                <img src="https://img.shields.io/badge/API-orange?style=flat-square" alt="API"/>
+                <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
+                <img alt="AXIOS" src="https://img.shields.io/badge/AXIOS-f6f6f6?style=flat-square&logo=axios?&logoColor=%235A29E4" />
+                <img alt="CSS" src="https://img.shields.io/badge/CSS-f6f6f6?style=flat-square&logo=css3&logoColor=%231572B6" /> 
+                <img alt="netlify" src="https://img.shields.io/badge/netlify-white?style=flat-square&logo=netlify" />
+            </p>
+        </td>
+    </tr>    
+ <tr>
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/Statistics101">Statistics101</a></h3>
             <p align="center"><img src="https://img.shields.io/github/created-at/VikSil/statistics101" alt="Created At"/>&nbsp;<img src="https://img.shields.io/github/last-commit/Viksil/statistics101" alt="Last commit"/><br><img src="https://img.shields.io/github/commit-activity/t/viksil/Statistics101" alt="Number of commits"/>&nbsp;<img src="https://img.shields.io/github/languages/count/viksil/Statistics101" alt="Language count"/></p>
@@ -164,46 +203,7 @@ All of the below I have worked with at some point to varying degree of proficien
                 <img src="https://img.shields.io/badge/Beautiful%20Soup-f6f6f6?style=flat-square" alt="Beautiful Soup"/>
             </p>
         </td>
-    </tr>
-     <tr>
-        <td>
-            <h3 align="center"><a href = "https://github.com/VikSil/howtoquant-backend">How To Quant (backend)</a></h3>
-            <p align="center"><img src="https://img.shields.io/github/created-at/VikSil/howtoquant-backend" alt="Created At"/>&nbsp;<img src="https://img.shields.io/github/last-commit/Viksil/howtoquant-backend" alt="Last commit"/><br><img src="https://img.shields.io/github/commit-activity/t/viksil/howtoquant-backend" alt="Number of commits"/>&nbsp;<img src="https://img.shields.io/github/languages/count/viksil/howtoquant-backend" alt="Language count"/></p>
-        </td>
-        <td>
-            <p align="center"><br>
-                Backend for an explorative hobby project aimed at proof of concept finance system implementation (ongoing).<br><br>
-                <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
-                <img src="https://img.shields.io/badge/django-103e2e?style=flat-square" alt="django"/>
-                <img src="https://img.shields.io/badge/pandas-f6f6f6?style=flat-square&logo=pandas&logoColor=0d044d" alt="pandas"/>
-                <img  alt="API" src="https://img.shields.io/badge/API-orange?style=flat-square"/>
-                <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
-                <img alt="Yahoo Finance" src="https://img.shields.io/badge/Yahoo%20Finance-%23201246?style=flat-square" />
-                <img alt="Polygon.io" src="https://img.shields.io/badge/Polygon.io-%235F5CFF?style=flat-square" />
-                <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23E48E00?style=flat-square&logo=mysql&logoColor=%234479A1" />
-                <img alt="Aiven" src="https://img.shields.io/badge/aiven-%23FF3554%20?style=flat-square" />
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <h3 align="center"><a href = "https://github.com/VikSil/howtoquant-frontend">How To Quant (frontend)</a></h3>
-            <p align="center"><img src="https://img.shields.io/github/created-at/VikSil/howtoquant-frontend" alt="Created At"/>&nbsp;<img src="https://img.shields.io/github/last-commit/Viksil/howtoquant-frontend" alt="Last commit"/><br><img src="https://img.shields.io/github/commit-activity/t/viksil/howtoquant-frontend" alt="Number of commits"/>&nbsp;<img src="https://img.shields.io/github/languages/count/viksil/howtoquant-frontend" alt="Language count"/></p>
-        </td>
-        <td>
-            <p align="center"><br>
-                Frontend for an explorative hobby project aimed at proof of concept finance system implementation (ongoing).<br><br>
-                <img src="https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-                <img alt="React" src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=%2361DAFB" />
-                <img alt="React Router" src="https://img.shields.io/badge/React_Router-black?style=flat-square&logo=react-router&logoColor=CA4245"/>
-                <img src="https://img.shields.io/badge/API-orange?style=flat-square" alt="API"/>
-                <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
-                <img alt="AXIOS" src="https://img.shields.io/badge/AXIOS-f6f6f6?style=flat-square&logo=axios?&logoColor=%235A29E4" />
-                <img alt="CSS" src="https://img.shields.io/badge/CSS-f6f6f6?style=flat-square&logo=css3&logoColor=%231572B6" /> 
-                <img alt="netlify" src="https://img.shields.io/badge/netlify-white?style=flat-square&logo=netlify" />
-            </p>
-        </td>
-    </tr>
+    </tr>    
     <tr>
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/udemy_100_days_of_code">Udemy 100 Days of Code Python Bootcamp</a></h3>
@@ -313,33 +313,6 @@ All of the below I have worked with at some point to varying degree of proficien
             </p>
         </td>
     </tr>
-    <!--
-    <tr>
-        <td>
-            <h3 align="center"><a href = "https://github.com/VikSil/RedBubble_Automation">RedBubble_Automation</a></h3>
-            <p align="center">
-                <img src="https://img.shields.io/github/created-at/VikSil/RedBubble_Automation" alt="Created At"/>&nbsp;
-                <img src="https://img.shields.io/github/last-commit/Viksil/RedBubble_Automation" alt="Last commit"/>
-                <br>
-                <img src="https://img.shields.io/github/commit-activity/t/viksil/RedBubble_Automation" alt="Number of commits"/>&nbsp;
-                <img src="https://img.shields.io/github/languages/count/viksil/RedBubble_Automation" alt="Language count"/>
-            </p>
-        </td>
-        <td>
-            <p align="center"><br>
-                A collection of scripts to automate A.I. image generation, preparation and upload to Redbubble website.
-                <br><br>
-                <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
-                <img src="https://img.shields.io/badge/Selenium-f6f6f6?style=flat-square&logo=selenium" alt="Selenium"/>
-                <img src="https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-                <img src="https://img.shields.io/badge/API-orange?style=flat-square" alt="API"/>
-                <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
-                <img alt="HuggingFace" src="https://img.shields.io/badge/Hugging%20Face-yellow?style=flat-square" />
-                <img alt="Power Automate Desktop" src="https://img.shields.io/badge/Power%20Automate%20Desktop-f6f6f6?style=flat-square&logo=powerautomate&logoColor=blue" />
-            </p>
-        </td>
-    </tr>
-    -->
     <tr>
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/freecodecamp_rust_course">freecodecamp_rust_course</a></h3>
@@ -408,11 +381,5 @@ All of the below I have worked with at some point to varying degree of proficien
 
 <p align="center"> 
 N.B. The below statistics only reflect time spent in VS Code.
-<img height="533" width = "1000" src="https://wakatime.com/share/@VikSil/21da73f3-9a1c-4a6c-924b-c6a42a3339e4.png" />
 <img width = "1000" src="https://wakatime.com/share/@VikSil/1753ea4a-0b4b-4416-9433-f33fa5c8a6e0.png" />
 </p>
-
-<!-- LINKS -->
-[LinkedIn]: https://www.linkedin.com/in/viktoria-sudraba/
-[Github]: https://github.com/VikSil
-[StackOverflow]: https://stackoverflow.com/users/22456198/viksil
