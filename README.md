@@ -1,4 +1,4 @@
-# Hi, my name is Vik <img height = "30" src="https://github.com/VikSil/VikSil/blob/trunk/img/Telegram_Fox.gif"/>
+# Hello world, my name is Vik <img height = "30" src="https://github.com/VikSil/VikSil/blob/trunk/img/Telegram_Fox.gif"/>
 
 __Fun Fact__:  my surname means Silver in my native language. I'm a little silver fox.
 
