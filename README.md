@@ -40,6 +40,7 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://docs.python.org/3/_images/turtle-star.png" alt="Turtle" width="50" height="50"/>](? "Turtle")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Feather_on_blue_tile.png" alt="Tkinter" width="50" height="50"/>](? "Tkinter")
 <br>
+<br>
 
 ### Javascript Ecosystem
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=js" alt="JavaScript" />](? "JavaScript")
@@ -52,6 +53,7 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" alt="React Router" width="50" height="50"/>](? "React Router")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=materialui" alt="React" />](? "React")
 <br>
+<br>
 
 
 
@@ -60,7 +62,7 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" alt="Powershell" />](? "MS Powershell")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=rust" alt="Rust" />](? "Rust")
 <br>
-
+<br>
 
 ### Databases
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" alt="Oracle" />](? "Oracle")
@@ -69,13 +71,14 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" alt="MySQL" />](? "MySQL")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" alt="SQLite" />](? "SQLite")
 <br>
-
+<br>
 
 ### Web
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="HTML" />](? "HTML")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="CSS" />](? "CSS")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" alt="Bootstrap" />](? "Bootstrap")
 [<img src="https://skillicons.dev/icons?i=sass" alt="Sass"/>](? "Sass")
+<br>
 <br>
 
 ### API
@@ -91,7 +94,7 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/HuggingFace_Logo.png" alt="HuggingFace" width="50" height="50"/>](? "HuggingFace")
 [<img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" alt="XML" width="50" height="50"/>](? "XML")
 <br>
-
+<br>
 
 ### Tools
 [<img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"/>](? "VSCode")
@@ -104,12 +107,12 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/MS_Power_BI_Logo.png" alt="PowerBI" width="50" height="50"/>](? "PowerBI")
 [<img src="https://skillicons.dev/icons?i=grafana" alt="Grafana"/>](? "Grafana")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=excel" alt="MS Excel"/>](? "MS Excel")
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark"/>](? "Wireshark")
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark"  width="50" height="50"/>](? "Wireshark")
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Virtual_Box_Logo.png" alt="Oracle Virtual Box" width="50" height="50"/>](? "Oracle Virtual Box")
 [<img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" alt="FileZilla" width="50" height="50"/>](? "FileZilla")
 [<img src="https://skillicons.dev/icons?i=photoshop" alt="Adobe Photoshop"/>](? "Adobe Photoshop")
 <br>
-
+<br>
 
 ### Hosting
 [<img src="https://avatars.githubusercontent.com/u/181511?s=200&v=4" alt="pythonanywhere" width="50" height="50"/>](? "pythonanywhere")
@@ -117,6 +120,7 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://skillicons.dev/icons?i=netlify" alt="netlify"/>](? "netlify")
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Aiven_Logo.png" alt="Aiven" width="50" height="50"/>](? "Aiven")
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/ElephantSQL_Logo.png" alt="ElephantSQL" width="50" height="50"/>](? "ElephantSQL")
+<br>
 <br>
 
 ### Operating Systems
