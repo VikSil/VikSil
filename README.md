@@ -24,72 +24,107 @@ __Fun Fact__:  my surname means Silver in my native language. I'm a little silve
 
 ## My Tech Stack 
 
-All of the below I have worked with at some point to varying degree of proficiency. Please inquiry if you need to know any specifics.
+All of the below I have worked with at some point to varying degree of proficiency. Please inquiry if you need to know any specifics. Hower mouse pointer over it if you are unfamiliar with the icon of any technology. 
 
 ### Python Ecosystem
-| Python3 | Django | Jupyter | Pandas | NumPy | Plotly | Matplotlib | BeautifulSoup | Selenium | Pytest | 
-|----------|----------|----------|-----|-----|-----|-----|-----|-----|-----|
-| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/></p> |  <p align="center"><img src="https://deviconapi.vercel.app/django?color=092A1F" title="Django"  alt="Django" width="55" height="55"/></p> |<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/></p> |  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" title="Plotly" alt="Plotly" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/></p>| <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/Beautiful_Soup_Logo.png" title="BeautifulSoup" alt="BeautifulSoup" width="105" /></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/></p>|
-
- | Turtle | Tkinter |
- |-----|-----|
- |   <p align="center"><img src="https://docs.python.org/3/_images/turtle-star.png" title="Turtle" alt="Turtle" width="55" height="55"/></p>|  <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Feather_on_blue_tile.png" title="Tkinter" alt="Tkinter" width="55" height="55"/></p>|
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python" />](? "Python")
+[<img src="https://skillicons.dev/icons?i=django&theme=dark&perline=15" alt="Django" />](? "Django")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" alt="Jupyter" />](? "Jupyter Notebook")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" alt="Pandas" />](? "Pandas")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" alt="Numpy" />](? "Numpy")
+[<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" alt="Plotly" width="50" height="50"/>](? "Plotly")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" alt="matplotlib" />](? "Matplotlib")
+[<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Beautiful_Soup_Logo.png" alt="BeautifulSoup" width="50" height="50"/>](? "BeautifulSoup")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=selenium" alt="Selenium" />](? "Selenium")
+[<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" alt="pytest" width="50" height="50"/>](? "Pytest")
+[<img src="https://docs.python.org/3/_images/turtle-star.png" alt="Turtle" width="50" height="50"/>](? "Turtle")
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Feather_on_blue_tile.png" alt="Tkinter" width="50" height="50"/>](? "Tkinter")
+<br>
 
 ### Javascript Ecosystem
-| JavaScript | NPM | Express.js | Jest | MathJax | Dropzone.js | React.js | React Router |
-|----------|----------|----------|-----|-----|-----|-----|-----|
-| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/></p> |  <p align="center"><img src="https://deviconapi.vercel.app/npm?color=CB3837" title="npm"  alt="npm" width="55" height="55"/></p> |<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express.js"  alt="express.js" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest"  alt="Jest" width="55" height="55"/></p> |  <p align="center"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/MathJax.svg/1280px-MathJax.svg.png" title="MathJax"  alt="MathJax" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/Dropzone_Logo.png" title="Dropzone.js"  alt="Dropzone.js" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js"  alt="React.js" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React Router"  alt="React Router" width="55" height="55" /></p> |
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=js" alt="JavaScript" />](? "JavaScript")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=npm" alt="npm" />](? "npm")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=express" alt="express.js" />](? "express.js")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=jest" alt="Jest" />](? "Jest")
+[<img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/MathJax.svg/1280px-MathJax.svg.png" alt="MathJax" width="50" height="50"/>](? "MathJax")
+[<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Dropzone_Logo.png" alt="Dropzone" width="50" height="50"/>](? "Dropzone")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="React" />](? "React")
+[<img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" alt="React Router" width="50" height="50"/>](? "React Router")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=materialui" alt="React" />](? "React")
+<br>
+
+
 
 ### Other Languages
-| Bash | MS Powershell | Rust |
-|----------|----------|----------|
-| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash"  alt="Bash" width="55" height="55"/></p>| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell"  alt="Powershell" width="55" height="55"/></p>| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust"  alt="Rust" width="55" height="55"/></p>|
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash" />](? "Bash")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" alt="Powershell" />](? "MS Powershell")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=rust" alt="Rust" />](? "Rust")
+<br>
 
 
 ### Databases
-| Oracle PL/SQL | MS SQL Server | PostgreSQL | MySQL | SQLite |
-|----------|----------|----------|-----|-----|
-| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="MSSQL"  alt="MSSQL" width="55" height="55"/></p> |<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="55" height="55"/></p> |  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="55" height="55"/></p>|
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" alt="Oracle" />](? "Oracle")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" alt="MS SQL Server" />](? "MS SQL Server")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" alt="PostgreSQL" />](? "PostgreSQL")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" alt="MySQL" />](? "MySQL")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" alt="SQLite" />](? "SQLite")
+<br>
 
 
 ### Web
-| HTML | CSS | Bootstrap | Sass |
-|----------|----------|----------|-----|
-|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML5" width="55" height="55"/></p> |  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="55" height="55"/></p> |<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass"  alt="Sass" width="55" height="55"/></p> |
-
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="HTML" />](? "HTML")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="CSS" />](? "CSS")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" alt="Bootstrap" />](? "Bootstrap")
+[<img src="https://skillicons.dev/icons?i=sass" alt="Sass"/>](? "Sass")
+<br>
 
 ### API
-| Json | Axios | Insomnia | Postman | yahoo! finance | Poligon.io | Rapid API | Twilio | Sheety |
-|----------|----------|----------|-----|-----|-----|-----|-----|-----|
-| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="Json"  alt="Json" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios"  alt="Axios" width="55" height="55"/></p> |<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" title="Insomnia"  alt="Insomnia" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="55" height="55"/></p> | <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/yahoo_finance_Logo.png" title="yahoo finance"  alt="yahoo finance" width="55" height="55"/></p>|  <p align="center"><img src="https://avatars.githubusercontent.com/u/25178434?s=200&v=4" title="Poligon.io"  alt="Poligon.io" width="55" height="55"/></p>| <p align="center"><img src="https://avatars.githubusercontent.com/u/16919504?s=200&v=4" title="Rapid API"  alt="Rapid API" width="55" height="55"/></p>| <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/Twilio_Logo.png" title="Twilio"  alt="Twilio" width="55" height="55"/></p>| <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/Sheety_Logo.png" title="Sheety"  alt="Sheety" width="55" height="55"/></p>|
-
-
-| HuggingFace | XML |
-|-----|-----|
-| <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/HuggingFace_Logo.png" title="HuggingFace"  alt="HuggingFace" width="55" height="55"/></p>| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="XML"  alt="XML" width="55" height="55"/></p>|
+[<img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" alt="JSON" width="50" height="50"/> ](? "JSON")
+[<img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" alt="Axios" width="50" height="50"/>](? "Axios")
+[<img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="50" height="50"/>](? "Insomnia")
+[<img src="https://skillicons.dev/icons?i=postman" alt="Postman"/>](? "Postman")
+[<img src="https://github.com/VikSil/VikSil/blob/trunk/img/yahoo_finance_Logo.png" alt="Yahoo! Finance" width="50" height="50"/>](? "Yahoo! Finance")
+[<img src="https://avatars.githubusercontent.com/u/25178434?s=200&v=4" alt="Poligon.io" width="50" height="50"/>](? "Poligon.io")
+[<img src="https://avatars.githubusercontent.com/u/16919504?s=200&v=4" alt="Rapid API" width="50" height="50"/>](? "Rapid API")
+[<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Twilio_Logo.png" alt="Twilio" width="50" height="50"/>](? "Twilio")
+[<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Sheety_Logo.png" alt="Sheety" width="50" height="50"/>](? "Sheety")
+[<img src="https://github.com/VikSil/VikSil/blob/trunk/img/HuggingFace_Logo.png" alt="HuggingFace" width="50" height="50"/>](? "HuggingFace")
+[<img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" alt="XML" width="50" height="50"/>](? "XML")
+<br>
 
 
 ### Tools
-| VS Code | git | Jenkins | Jira | Confluence | Trello |  Power<br>Automate<br>Desktop | Power BI | Grafana |
-|----------|----------|----------|-----|-----|-----|-----|-----|-----|
-| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="55" height="55"/></p>| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55"/>| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira"  alt="Jira" width="55" height="55"/></p>| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence"  alt="Confluence" width="55" height="55"/></p> | <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello"  alt="Trello" width="55" height="55"/></p>| <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/Power_Automate_Desktop_Logo.png" title="Power Automate Desktop"  alt="Power Automate Desktop" width="55" height="55"/></p> |<p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/MS_Power_BI_Logo.png" title="Power_BI"  alt="Power_BI" width="85" height="55"/></p>|<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana"  alt="Grafana" width="55" height="55"/></p>| 
+[<img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"/>](? "VSCode")
+[<img src="https://skillicons.dev/icons?i=git" alt="Git"/>](? "Git")
+[<img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins"/>](? "Jenkins")
+[<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/>](? "Jira")
+[<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" alt="Confluence" width="50" height="50"/>](? "Confluence")
+[<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" alt="Trello" width="50" height="50"/>](? "Trello")
+[<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Power_Automate_Desktop_Logo.png" alt="Power Automate Desktop" width="50" height="50"/>](? "power Automate Desktop")
+[<img src="https://github.com/VikSil/VikSil/blob/trunk/img/MS_Power_BI_Logo.png" alt="PowerBI" width="50" height="50"/>](? "PowerBI")
+[<img src="https://skillicons.dev/icons?i=grafana" alt="Grafana"/>](? "Grafana")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=excel" alt="MS Excel"/>](? "MS Excel")
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark"/>](? "Wireshark")
+[<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Virtual_Box_Logo.png" alt="Oracle Virtual Box" width="50" height="50"/>](? "Oracle Virtual Box")
+[<img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" alt="FileZilla" width="50" height="50"/>](? "FileZilla")
+[<img src="https://skillicons.dev/icons?i=photoshop" alt="Adobe Photoshop"/>](? "Adobe Photoshop")
+<br>
 
-|  MS Excel | Wireshark | Virtual Box |  Filezilla | Adobe Photoshop |
-|----------|----------|----------|----------|-----|
-|  <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/MS_Excel_Logo.png" title="MS Excel"  alt="MS Excel" width="80" height="55"/></p> | <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" title="Wireshark"  alt="Wireshark" width="55" height="55"/></p>| <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/Virtual_Box_Logo.png" title="Virtual Box"  alt="Virtual Box" width="55" height="55"/></p>| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" title="Filezilla"  alt="Filezilla" width="55" height="55"/></p>| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop"  alt="Photoshop" width="55" height="55"/></p>|
 
 ### Hosting
-| pythonanywhere | Render | netlify | Aiven | ElephantSQL |
-|----------|----------|----------|-----|-----|
-| <p align="center"> <img src="https://avatars.githubusercontent.com/u/181511?s=200&v=4" title="pythonanywhere"  alt="pythonanywhere" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/Render_Logo.png" title="Render"  alt="Render" width="55" height="55"/></p> |<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original-wordmark.svg" title="netlify"  alt="netlify" width="55" height="55"/></p>|  <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/Aiven_Logo.png" title="Aiven"  alt="Aiven" width="55" height="55"/></p> |  <p align="center"><img src="https://github.com/VikSil/VikSil/blob/trunk/img/ElephantSQL_Logo.png" title="ElephantSQL"  alt="ElephantSQL" width="55" height="55"/></p>|
+[<img src="https://avatars.githubusercontent.com/u/181511?s=200&v=4" alt="pythonanywhere" width="50" height="50"/>](? "pythonanywhere")
+[<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Render_Logo.png" alt="Render" width="50" height="50"/>](? "Render")
+[<img src="https://skillicons.dev/icons?i=netlify" alt="netlify"/>](? "netlify")
+[<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Aiven_Logo.png" alt="Aiven" width="50" height="50"/>](? "Aiven")
+[<img src="https://github.com/VikSil/VikSil/blob/trunk/img/ElephantSQL_Logo.png" alt="ElephantSQL" width="50" height="50"/>](? "ElephantSQL")
+<br>
 
 ### Operating Systems
-| GNU/Linux | MS Windows |
-|----------|----------|
-| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="55" height="55"/></p>| <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows"  alt="Windows" width="55" height="55"/></p>|
-
-
+[<img src="https://skillicons.dev/icons?i=linux" alt="GNU/Linux"/>](? "GNU/Linux")
+[<img src="https://skillicons.dev/icons?i=windows" alt="MS Windows"/>](? "MS Windows")
 <br>
+<br>
+
 
 ## Public Repo Summary
 
