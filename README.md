@@ -103,7 +103,7 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/>](? "Jira")
 [<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" alt="Confluence" width="50" height="50"/>](? "Confluence")
 [<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" alt="Trello" width="50" height="50"/>](? "Trello")
-[<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Power_Automate_Desktop_Logo.png" alt="Power Automate Desktop" width="50" height="50"/>](? "power Automate Desktop")
+[<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Power_Automate_Desktop_Logo.png" alt="Power Automate Desktop" width="50" height="50"/>](? "Power Automate Desktop")
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/MS_Power_BI_Logo.png" alt="PowerBI" width="50" height="50"/>](? "PowerBI")
 [<img src="https://skillicons.dev/icons?i=grafana" alt="Grafana"/>](? "Grafana")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=excel" alt="MS Excel"/>](? "MS Excel")
