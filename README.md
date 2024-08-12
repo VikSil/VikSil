@@ -51,7 +51,7 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Dropzone_Logo.png" alt="Dropzone" width="50" height="50"/>](? "Dropzone")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="React" />](? "React")
 [<img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" alt="React Router" width="50" height="50"/>](? "React Router")
-[<img src="https://go-skill-icons.vercel.app/api/icons?i=materialui" alt="React" />](? "React")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=materialui" alt="Material UI" />](? "Material UI")
 <br>
 <br>
 
