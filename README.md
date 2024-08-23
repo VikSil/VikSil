@@ -99,6 +99,7 @@ All of the below I have worked with at some point to varying degree of proficien
 ### Tools
 [<img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"/>](? "VSCode")
 [<img src="https://skillicons.dev/icons?i=git" alt="Git"/>](? "Git")
+[<img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>](? "GitHub")
 [<img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins"/>](? "Jenkins")
 [<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/>](? "Jira")
 [<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" alt="Confluence" width="50" height="50"/>](? "Confluence")
@@ -106,10 +107,11 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Power_Automate_Desktop_Logo.png" alt="Power Automate Desktop" width="50" height="50"/>](? "Power Automate Desktop")
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/MS_Power_BI_Logo.png" alt="PowerBI" width="50" height="50"/>](? "PowerBI")
 [<img src="https://skillicons.dev/icons?i=grafana" alt="Grafana"/>](? "Grafana")
-[<img src="https://go-skill-icons.vercel.app/api/icons?i=excel" alt="MS Excel"/>](? "MS Excel")
+[<img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>](? "Docker")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark"  width="50" height="50"/>](? "Wireshark")
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Virtual_Box_Logo.png" alt="Oracle Virtual Box" width="50" height="50"/>](? "Oracle Virtual Box")
 [<img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" alt="FileZilla" width="50" height="50"/>](? "FileZilla")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=excel" alt="MS Excel"/>](? "MS Excel")
 [<img src="https://skillicons.dev/icons?i=photoshop" alt="Adobe Photoshop"/>](? "Adobe Photoshop")
 <br>
 <br>
@@ -221,7 +223,107 @@ All of the below I have worked with at some point to varying degree of proficien
             </p>
         </td>
     </tr>
+        <tr>
+        <td>
+            <h3 align="center"><a href = "https://github.com/VikSil/NC_katas_downloader">UC_journal_automation</a></h3>
+            <p align="center">
+                <img src="https://img.shields.io/github/created-at/VikSil/UC_journal_automation" alt="Created At"/>&nbsp;
+                <img src="https://img.shields.io/github/last-commit/Viksil/UC_journal_automation" alt="Last commit"/>
+                <br>
+                <img src="https://img.shields.io/github/commit-activity/t/viksil/UC_journal_automation" alt="Number of commits"/>&nbsp;
+                <img src="https://img.shields.io/github/languages/count/viksil/UC_journal_automation" alt="Language count"/>
+            </p>
+        </td>
+        <td>
+            <p align="center"><br>
+                Dockerised Python script that automatically submits entries from Google Sheets to job search journal on Universal Credit Website, using Selenium.
+                <br><br>
+                <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
+                <img src="https://img.shields.io/badge/Selenium-f6f6f6?style=flat-square&logo=selenium" alt="Selenium"/>
+                <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker"/>
+                <img src="https://img.shields.io/badge/pandas-f6f6f6?style=flat-square&logo=pandas&logoColor=0d044d" alt="pandas"/>
+            </p>
+        </td>
+    </tr>
     <tr>
+        <td>
+            <h3 align="center"><a href = "https://github.com/VikSil/NC_katas_downloader">NC_katas_downloader</a></h3>
+            <p align="center">
+                <img src="https://img.shields.io/github/created-at/VikSil/NC_katas_downloader" alt="Created At"/>&nbsp;
+                <img src="https://img.shields.io/github/last-commit/Viksil/NC_katas_downloader" alt="Last commit"/>
+                <br>
+                <img src="https://img.shields.io/github/commit-activity/t/viksil/NC_katas_downloader" alt="Number of commits"/>&nbsp;
+                <img src="https://img.shields.io/github/languages/count/viksil/NC_katas_downloader" alt="Language count"/>
+            </p>
+        </td>
+        <td>
+            <p align="center"><br>
+                Scripted auto-downloader for Northcoders Software Engineering Bootcamp exercises.
+                <br><br>
+                <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
+                <img src="https://img.shields.io/badge/Beautiful%20Soup-f6f6f6?style=flat-square" alt="Beautiful Soup"/>
+                <img src="https://img.shields.io/badge/Selenium-f6f6f6?style=flat-square&logo=selenium" alt="Selenium"/>
+            </p>
+        </td>
+    </tr>
+        <tr>
+        <td>
+            <h3 align="center"><a href = "https://github.com/VikSil/NC-news-frontend">NC-news-frontend</a></h3>
+            <p align="center">
+                <img src="https://img.shields.io/github/created-at/VikSil/NC-news-frontend" alt="Created At"/>&nbsp;
+                <img src="https://img.shields.io/github/last-commit/Viksil/NC-news-frontend" alt="Last commit"/>
+                <br>
+                <img src="https://img.shields.io/github/commit-activity/t/viksil/NC-news-frontend" alt="Number of commits"/>&nbsp;
+                <img src="https://img.shields.io/github/languages/count/viksil/NC-news-frontend" alt="Language count"/>
+            </p>
+        </td>
+        <td>
+            <p align="center"><br>
+                Frontend project sprint repo for Northcoders Software Development Bootcamp.
+                <br><br>
+                <img src="https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+                <img alt="Node.js" src="https://img.shields.io/badge/node.js-black?style=flat-square&logo=Node.js&logoColor=43853d" />  
+                <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+                <img alt="React" src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=%2361DAFB" />
+                <img alt="React Router" src="https://img.shields.io/badge/React_Router-black?style=flat-square&logo=react-router&logoColor=CA4245"/>
+                <img src="https://img.shields.io/badge/API-orange?style=flat-square" alt="API"/>
+                <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
+                <img alt="AXIOS" src="https://img.shields.io/badge/AXIOS-f6f6f6?style=flat-square&logo=axios?&logoColor=%235A29E4" />
+                <img alt="CSS" src="https://img.shields.io/badge/CSS-f6f6f6?style=flat-square&logo=css3&logoColor=%231572B6" /> 
+                <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-f6f6f6?style=flat-square&logo=bootstrap" />
+                <img alt="netlify" src="https://img.shields.io/badge/netlify-white?style=flat-square&logo=netlify" />
+            </p>
+        </td>
+    </tr>        
+    <tr>
+        <td>
+            <h3 align="center"><a href = "https://github.com/VikSil/NC-news-backend-API">NC-news-backend-API</a></h3>
+            <p align="center">
+                <img src="https://img.shields.io/github/created-at/VikSil/NC-news-backend-API" alt="Created At"/>&nbsp;
+                <img src="https://img.shields.io/github/last-commit/Viksil/NC-news-backend-API" alt="Last commit"/>
+                <br>
+                <img src="https://img.shields.io/github/commit-activity/t/viksil/NC-news-backend-API" alt="Number of commits"/>&nbsp;
+                <img src="https://img.shields.io/github/languages/count/viksil/NC-news-backend-API" alt="Language count"/>
+            </p>
+        </td>
+        <td>
+            <p align="center"><br>
+                Backend project sprint repo for Northcoders Software Development Bootcamp.
+                <br><br>
+                <img src="https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+                <img alt="Node.js" src="https://img.shields.io/badge/node.js-black?style=flat-square&logo=Node.js&logoColor=43853d" />  
+                <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+                <img alt="Express.Js" src="https://img.shields.io/badge/express.js-%23F7DF1E.svg?style=flat-square"/>
+                <img alt="Jest" src="https://img.shields.io/badge/Jest-f6f6f6?style=flat-square&logo=jest&logoColor=944058"/>
+                <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-f6f6f6?style=flat-square&logo=postgresql"/>
+                <img alt="ElephantSQL" src="https://img.shields.io/badge/ElephantSQL-blue?style=flat-square" />
+                <img  alt="API" src="https://img.shields.io/badge/API-orange?style=flat-square"/>
+                <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
+                <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+            </p>
+        </td>
+    </tr>
+    <!-- <tr>
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/CS50Python">CS50Python</a></h3>
             <p align="center">
@@ -242,7 +344,7 @@ All of the below I have worked with at some point to varying degree of proficien
                 <img src="https://img.shields.io/badge/Beautiful%20Soup-f6f6f6?style=flat-square" alt="Beautiful Soup"/>
             </p>
         </td>
-    </tr>    
+    </tr>     -->
     <tr>
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/udemy_100_days_of_code">Udemy 100 Days of Code Python Bootcamp</a></h3>
@@ -275,83 +377,6 @@ All of the below I have worked with at some point to varying degree of proficien
             </p>
         </td>
     </tr>    
-        <td>
-            <h3 align="center"><a href = "https://github.com/VikSil/NC-news-backend-API">NC-news-backend-API</a></h3>
-            <p align="center">
-                <img src="https://img.shields.io/github/created-at/VikSil/NC-news-backend-API" alt="Created At"/>&nbsp;
-                <img src="https://img.shields.io/github/last-commit/Viksil/NC-news-backend-API" alt="Last commit"/>
-                <br>
-                <img src="https://img.shields.io/github/commit-activity/t/viksil/NC-news-backend-API" alt="Number of commits"/>&nbsp;
-                <img src="https://img.shields.io/github/languages/count/viksil/NC-news-backend-API" alt="Language count"/>
-            </p>
-        </td>
-        <td>
-            <p align="center"><br>
-                Backend project sprint repo for Northcoders Software Development Bootcamp.
-                <br><br>
-                <img src="https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-                <img alt="Node.js" src="https://img.shields.io/badge/node.js-black?style=flat-square&logo=Node.js&logoColor=43853d" />  
-                <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-                <img alt="Express.Js" src="https://img.shields.io/badge/express.js-%23F7DF1E.svg?style=flat-square"/>
-                <img alt="Jest" src="https://img.shields.io/badge/Jest-f6f6f6?style=flat-square&logo=jest&logoColor=944058"/>
-                <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-f6f6f6?style=flat-square&logo=postgresql"/>
-                <img alt="ElephantSQL" src="https://img.shields.io/badge/ElephantSQL-blue?style=flat-square" />
-                <img  alt="API" src="https://img.shields.io/badge/API-orange?style=flat-square"/>
-                <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
-                <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <h3 align="center"><a href = "https://github.com/VikSil/NC-news-frontend">NC-news-frontend</a></h3>
-            <p align="center">
-                <img src="https://img.shields.io/github/created-at/VikSil/NC-news-frontend" alt="Created At"/>&nbsp;
-                <img src="https://img.shields.io/github/last-commit/Viksil/NC-news-frontend" alt="Last commit"/>
-                <br>
-                <img src="https://img.shields.io/github/commit-activity/t/viksil/NC-news-frontend" alt="Number of commits"/>&nbsp;
-                <img src="https://img.shields.io/github/languages/count/viksil/NC-news-frontend" alt="Language count"/>
-            </p>
-        </td>
-        <td>
-            <p align="center"><br>
-                Frontend project sprint repo for Northcoders Software Development Bootcamp.
-                <br><br>
-                <img src="https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-                <img alt="Node.js" src="https://img.shields.io/badge/node.js-black?style=flat-square&logo=Node.js&logoColor=43853d" />  
-                <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-                <img alt="React" src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=%2361DAFB" />
-                <img alt="React Router" src="https://img.shields.io/badge/React_Router-black?style=flat-square&logo=react-router&logoColor=CA4245"/>
-                <img src="https://img.shields.io/badge/API-orange?style=flat-square" alt="API"/>
-                <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
-                <img alt="AXIOS" src="https://img.shields.io/badge/AXIOS-f6f6f6?style=flat-square&logo=axios?&logoColor=%235A29E4" />
-                <img alt="CSS" src="https://img.shields.io/badge/CSS-f6f6f6?style=flat-square&logo=css3&logoColor=%231572B6" /> 
-                <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-f6f6f6?style=flat-square&logo=bootstrap" />
-                <img alt="netlify" src="https://img.shields.io/badge/netlify-white?style=flat-square&logo=netlify" />
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <h3 align="center"><a href = "https://github.com/VikSil/NC_katas_downloader">NC_katas_downloader</a></h3>
-            <p align="center">
-                <img src="https://img.shields.io/github/created-at/VikSil/NC_katas_downloader" alt="Created At"/>&nbsp;
-                <img src="https://img.shields.io/github/last-commit/Viksil/NC_katas_downloader" alt="Last commit"/>
-                <br>
-                <img src="https://img.shields.io/github/commit-activity/t/viksil/NC_katas_downloader" alt="Number of commits"/>&nbsp;
-                <img src="https://img.shields.io/github/languages/count/viksil/NC_katas_downloader" alt="Language count"/>
-            </p>
-        </td>
-        <td>
-            <p align="center"><br>
-                Scripted auto-downloader for Northcoders Software Engineering Bootcamp exercises.
-                <br><br>
-                <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
-                <img src="https://img.shields.io/badge/Beautiful%20Soup-f6f6f6?style=flat-square" alt="Beautiful Soup"/>
-                <img src="https://img.shields.io/badge/Selenium-f6f6f6?style=flat-square&logo=selenium" alt="Selenium"/>
-            </p>
-        </td>
-    </tr>
     <tr>
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/freecodecamp_rust_course">freecodecamp_rust_course</a></h3>
