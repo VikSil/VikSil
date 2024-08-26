@@ -225,7 +225,7 @@ All of the below I have worked with at some point to varying degree of proficien
     </tr>
         <tr>
         <td>
-            <h3 align="center"><a href = "https://github.com/VikSil/NC_katas_downloader">UC_journal_automation</a></h3>
+            <h3 align="center"><a href = "https://github.com/VikSil/UC_journal_automation">UC_journal_automation</a></h3>
             <p align="center">
                 <img src="https://img.shields.io/github/created-at/VikSil/UC_journal_automation" alt="Created At"/>&nbsp;
                 <img src="https://img.shields.io/github/last-commit/Viksil/UC_journal_automation" alt="Last commit"/>
