@@ -444,6 +444,7 @@ All of the below I have worked with at some point to varying degree of proficien
 <br>
 
 <p align="center"> 
-N.B. The below statistics only reflect time spent in VS Code.
-<img width = "1000" src="https://wakatime.com/share/@VikSil/1753ea4a-0b4b-4416-9433-f33fa5c8a6e0.png" />
+N.B. The below statistics only reflect time spent in VS Code since April 2024.
+<img width = "800" src="https://wakatime.com/share/@VikSil/78845879-0fa1-49ea-a105-181114fa34fa.png" />
+<img width = "800" src="https://wakatime.com/share/@VikSil/1753ea4a-0b4b-4416-9433-f33fa5c8a6e0.png" />
 </p>
