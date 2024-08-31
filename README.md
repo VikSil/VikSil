@@ -146,6 +146,8 @@ All of the below I have worked with at some point to varying degree of proficien
                 <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
                 <img src="https://img.shields.io/badge/django-103e2e?style=flat-square" alt="django"/>
                 <img src="https://img.shields.io/badge/pandas-f6f6f6?style=flat-square&logo=pandas&logoColor=0d044d" alt="pandas"/>
+                <img  alt="CORS Headers" src="https://img.shields.io/badge/CORS_Headers-FFDB73?style=flat-square"/>
+                <img  alt="cron jobs" src="https://img.shields.io/badge/cron jobs-79AEC8?style=flat-square"/>
                 <img  alt="API" src="https://img.shields.io/badge/API-orange?style=flat-square"/>
                 <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
                 <img alt="Yahoo Finance" src="https://img.shields.io/badge/Yahoo%20Finance-%23201246?style=flat-square" />
