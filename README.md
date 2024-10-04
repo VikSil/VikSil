@@ -24,7 +24,7 @@ __Fun Fact__:  my surname means Silver in my native language. I'm a little silve
 
 ## My Tech Stack 
 
-All of the below I have worked with at some point to varying degree of proficiency. Please inquiry if you need to know any specifics. Hower mouse pointer over it if you are unfamiliar with the icon of any technology. 
+All of the below I have worked with at some point to varying degree of proficiency. Please inquiry if you need to know any specifics. Hover mouse pointer over it if you are unfamiliar with the icon of any technology. 
 
 ### Python Ecosystem
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python" />](? "Python")
