@@ -138,7 +138,7 @@ All of the below I have worked with at some point to varying degree of proficien
   <tr>
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/howtoquant-backend">How To Quant (backend)</a></h3>
-            <p align="center"><img src="https://img.shields.io/github/created-at/VikSil/howtoquant-backend" alt="Created At"/>&nbsp;<img src="https://img.shields.io/github/last-commit/Viksil/howtoquant-backend" alt="Last commit"/><br><img src="https://img.shields.io/github/commit-activity/t/viksil/howtoquant-backend" alt="Number of commits"/>&nbsp;<img src="https://img.shields.io/github/languages/count/viksil/howtoquant-backend" alt="Language count"/></p>
+            <p align="center"><img src="https://img.shields.io/github/created-at/VikSil/howtoquant-backend" alt="Created At"/>&nbsp;<img src="https://img.shields.io/github/last-commit/Viksil/howtoquant-backend" alt="Last commit"/><br><img src="https://img.shields.io/github/commit-activity/t/viksil/howtoquant-backend" alt="Number of commits"/>&nbsp;<img src="https://img.shields.io/github/languages/count/viksil/howtoquant-backend" alt="Language count"/>&nbsp;<img src="https://wakatime.com/badge/github/VikSil/howtoquant-backend.svg" alt="Wakatime"/></p>
         </td>
         <td>
             <p align="center"><br>
@@ -160,7 +160,7 @@ All of the below I have worked with at some point to varying degree of proficien
     <tr>
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/howtoquant-frontend">How To Quant (frontend)</a></h3>
-            <p align="center"><img src="https://img.shields.io/github/created-at/VikSil/howtoquant-frontend" alt="Created At"/>&nbsp;<img src="https://img.shields.io/github/last-commit/Viksil/howtoquant-frontend" alt="Last commit"/><br><img src="https://img.shields.io/github/commit-activity/t/viksil/howtoquant-frontend" alt="Number of commits"/>&nbsp;<img src="https://img.shields.io/github/languages/count/viksil/howtoquant-frontend" alt="Language count"/></p>
+            <p align="center"><img src="https://img.shields.io/github/created-at/VikSil/howtoquant-frontend" alt="Created At"/>&nbsp;<img src="https://img.shields.io/github/last-commit/Viksil/howtoquant-frontend" alt="Last commit"/><br><img src="https://img.shields.io/github/commit-activity/t/viksil/howtoquant-frontend" alt="Number of commits"/>&nbsp;<img src="https://img.shields.io/github/languages/count/viksil/howtoquant-frontend" alt="Language count"/>&nbsp;<img src="https://wakatime.com/badge/github/VikSil/howtoquant-frontend.svg" alt="Wakatime"/></p>
         </td>
         <td>
             <p align="center"><br>
