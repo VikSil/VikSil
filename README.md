@@ -34,6 +34,7 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" alt="Numpy" />](? "Numpy")
 [<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" alt="Plotly" width="50" height="50"/>](? "Plotly")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" alt="matplotlib" />](? "Matplotlib")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" alt="TensorFlow" />](? "TensorFlow")
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Beautiful_Soup_Logo.png" alt="BeautifulSoup" width="50" height="50"/>](? "BeautifulSoup")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=selenium" alt="Selenium" />](? "Selenium")
 [<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" alt="pytest" width="50" height="50"/>](? "Pytest")
