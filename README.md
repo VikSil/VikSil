@@ -8,7 +8,7 @@ __Fun Fact__:  my surname means Silver in my native language. I'm a little silve
 * I moved to the UK following a promotion in 2019 because my employer wanted me to work closer with the development team  (Oxford Boyz were awesome and I miss them).
 * In 2023 I got hired into an application support role at a company where the support team management had a long-standing conflicts with the development team. I found myself agreeing with the development team too often. When this employment abruptly ended, it was clear that I have outgrown support roles and need to transition into development.
 * I had done some coding here and there over the years, but was never given the title. Furthermore, all of my work was proprietary - it belongs to my former employers and I am not legally allowed to show it to anyone, even to prove that I am able to code.
-* I have been building out my GitHub portfolio since July 2023 and have taken several programming courses to do so, including Harvard's [CS50 Python](https://github.com/VikSil/CS50Python), [CS50 Web](https://github.com/VikSil/CS50Web), [Rust course on freeCodeCamp](https://github.com/VikSil/freecodecamp_rust_course) and [Software Engineering Bootcamp by Northcoders](https://github.com/VikSil/NC-news-frontend).
+* I have been building out my GitHub portfolio since July 2023 and have taken several programming courses to do so, including Harvard's [CS50 Python](https://github.com/VikSil/CS50Python), [CS50 Web](https://github.com/VikSil/CS50Web), [CS50AI](https://github.com/VikSil/CS50AI) [Rust course on freeCodeCamp](https://github.com/VikSil/freecodecamp_rust_course) and [Software Engineering Bootcamp by Northcoders](https://github.com/VikSil/NC-news-frontend).
 * I am currently working through [100 Days of Code](https://github.com/VikSil/udemy_100_days_of_code) Python course by Udemy, as well as building a [proof of concept system/website](www.howtoquant.com) that combines my past experiences and newly acquired development skills, while looking for work opportunities in the industry.
 <br>
 
@@ -34,6 +34,7 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" alt="Numpy" />](? "Numpy")
 [<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" alt="Plotly" width="50" height="50"/>](? "Plotly")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" alt="matplotlib" />](? "Matplotlib")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" alt="scikitlearn" />](? "scikit-learn")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" alt="TensorFlow" />](? "TensorFlow")
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Beautiful_Soup_Logo.png" alt="BeautifulSoup" width="50" height="50"/>](? "BeautifulSoup")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=selenium" alt="Selenium" />](? "Selenium")
@@ -223,6 +224,28 @@ All of the below I have worked with at some point to varying degree of proficien
                 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-f6f6f6?style=flat-square&logo=bootstrap" />
                 <img src="https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> 
                 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003954?style=flat-square&logo=sqlite"/>
+            </p>
+        </td>
+    </tr>
+      <tr>
+        <td>
+            <h3 align="center"><a href = "https://github.com/VikSil/CS50AI">CS50AI</a></h3>
+            <p align="center">
+                <img src="https://img.shields.io/github/created-at/VikSil/cs50ai" alt="Created At"/>&nbsp;
+                <img src="https://img.shields.io/github/last-commit/Viksil/cs50ai" alt="Last commit"/><br>
+                <img src="https://img.shields.io/github/commit-activity/t/viksil/cs50ai" alt="Number of commits"/>&nbsp;
+                <img src="https://img.shields.io/github/languages/count/viksil/cs50ai" alt="Language count"/>&nbsp;
+                <img src="https://wakatime.com/badge/github/VikSil/CS50AI.svg" alt="Wakatime"/>
+            </p>
+        </td>
+        <td>
+            <p align="center"><br>
+                Repository of projects created while taking Harvard's CS50 AI course.
+                <br><br>
+                <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
+                <img src="https://img.shields.io/badge/TensorFlow-gray?style=flat-square&logo=tensorflow" alt="TensorFlow"/>
+                <img src="https://img.shields.io/badge/scikitlearn-blue?style=flat-square&logo=scikitlearn" alt="scikit-learn"/>
+                <img src="https://img.shields.io/badge/nltk-black?style=flat-square" alt="nltk"/>
             </p>
         </td>
     </tr>
