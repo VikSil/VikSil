@@ -102,6 +102,7 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"/>](? "VSCode")
 [<img src="https://skillicons.dev/icons?i=git" alt="Git"/>](? "Git")
 [<img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>](? "GitHub")
+[<img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions"/>](? "GitHub Actions")
 [<img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins"/>](? "Jenkins")
 [<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/>](? "Jira")
 [<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" alt="Confluence" width="50" height="50"/>](? "Confluence")
