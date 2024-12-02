@@ -467,7 +467,9 @@ All of the below I have worked with at some point to varying degree of proficien
 
 <p align="center"> 
 <img height="150" src="https://github-readme-stats-lake-omega.vercel.app/api?username=VikSil&show_icons=true&hide=issues&theme=dracula" alt=VikSil's GitHub Stats"/>&nbsp;&nbsp;&nbsp;
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=VikSil&theme=dracula" alt="VikSil's streak stats" /></p>
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=VikSil&theme=dracula" alt="VikSil's streak stats" />
+<img width = "800" src="https://github-readme-activity-graph.vercel.app/graph?username=viksil&theme=dracula&hide_border=true&hide_title=false&area=true&custom_title=Number%20of%20contributions%20across%20all%20repos%20in%20last%2030%20days"></img>
+</p>
 <br>
 
 <p align="center"> 
