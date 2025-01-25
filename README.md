@@ -41,6 +41,7 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" alt="pytest" width="50" height="50"/>](? "Pytest")
 [<img src="https://docs.python.org/3/_images/turtle-star.png" alt="Turtle" width="50" height="50"/>](? "Turtle")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Feather_on_blue_tile.png" alt="Tkinter" width="50" height="50"/>](? "Tkinter")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" alt="FastAPI" />](? "FastAPI")
 <br>
 <br>
 
