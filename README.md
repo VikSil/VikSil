@@ -129,7 +129,7 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://skillicons.dev/icons?i=netlify" alt="netlify"/>](? "netlify")
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Aiven_Logo.png" alt="Aiven" width="50" height="50"/>](? "Aiven")
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/ElephantSQL_Logo.png" alt="ElephantSQL" width="50" height="50"/>](? "ElephantSQL")
-[<img src="https://skillicons.dev/icons?i=gce" alt="GCP"/>](? "Google Cloud Platform")
+[<img src="https://skillicons.dev/icons?i=gcp" alt="GCP"/>](? "Google Cloud Platform")
 <br>
 <br>
 
@@ -345,6 +345,8 @@ All of the below I have worked with at some point to varying degree of proficien
                 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
                 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub actions"/>
                 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=black" alt="Bash"/>
+                <img alt="Rust" src="https://img.shields.io/badge/Rust-f6f6f6?style=flat-square&logo=rust&logoColor=black" />
+                <img src="https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
             </p>
         </td>
     </tr>
@@ -405,28 +407,6 @@ All of the below I have worked with at some point to varying degree of proficien
             </p>
         </td>
     </tr>
-    <!-- <tr>
-        <td>
-            <h3 align="center"><a href = "https://github.com/VikSil/CS50Python">CS50Python</a></h3>
-            <p align="center">
-                <img src="https://img.shields.io/github/created-at/VikSil/cs50python" alt="Created At"/>&nbsp;
-                <img src="https://img.shields.io/github/last-commit/Viksil/cs50python" alt="Last commit"/>
-                <br>
-                <img src="https://img.shields.io/github/commit-activity/t/viksil/cs50python" alt="Number of commits"/>&nbsp;
-                <img src="https://img.shields.io/github/languages/count/viksil/cs50python" alt="Language count"/>
-            </p>
-        </td>
-        <td>
-            <p align="center"><br>
-                Repository of code created while taking Harvard's CS50 Python course.
-                <br><br>
-                <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
-                <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
-                <img alt="pytest" src="https://img.shields.io/badge/pytest-f6f6f6?style=flat-square&logo=pytest" />
-                <img src="https://img.shields.io/badge/Beautiful%20Soup-f6f6f6?style=flat-square" alt="Beautiful Soup"/>
-            </p>
-        </td>
-    </tr>     -->
     <tr>
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/udemy_100_days_of_code">Udemy 100 Days of Code Python Bootcamp</a></h3>
@@ -459,25 +439,6 @@ All of the below I have worked with at some point to varying degree of proficien
             </p>
         </td>
     </tr>    
-    <tr>
-        <td>
-            <h3 align="center"><a href = "https://github.com/VikSil/freecodecamp_rust_course">freecodecamp_rust_course</a></h3>
-            <p align="center">
-                <img src="https://img.shields.io/github/created-at/VikSil/freecodecamp_rust_course" alt="Created At"/>&nbsp;
-                <img src="https://img.shields.io/github/last-commit/Viksil/freecodecamp_rust_course" alt="Last commit"/>
-                <br>
-                <img src="https://img.shields.io/github/commit-activity/t/viksil/freecodecamp_rust_course" alt="Number of commits"/>&nbsp;
-                <img src="https://img.shields.io/github/languages/count/viksil/freecodecamp_rust_course" alt="Language count"/>
-            </p>
-        </td>
-        <td>
-            <p align="center"><br>
-                Repository of code produced while taking Rust course on freeCodeCamp.
-                <br><br>
-                <img alt="Rust" src="https://img.shields.io/badge/Rust-f6f6f6?style=flat-square&logo=rust&logoColor=black" />
-            </p>
-        </td>
-    </tr>
     <tr>
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/PowerShell_Public">PowerShell_Public</a></h3>
