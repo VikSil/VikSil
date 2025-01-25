@@ -8,8 +8,8 @@ __Fun Fact__:  my surname means Silver in my native language. I'm a little silve
 * I moved to the UK following a promotion in 2019 because my employer wanted me to work closer with the development team  (Oxford Boyz were awesome and I miss them).
 * In 2023 I got hired into an application support role at a company where the support team management had a long-standing conflicts with the development team. I found myself agreeing with the development team too often. When this employment abruptly ended, it was clear that I have outgrown support roles and need to transition into development.
 * I had done some coding here and there over the years, but was never given the title. Furthermore, all of my work was proprietary - it belongs to my former employers and I am not legally allowed to show it to anyone, even to prove that I am able to code.
-* I have been building out my GitHub portfolio since July 2023 and have taken several programming courses to do so, including Harvard's [CS50 Python](https://github.com/VikSil/CS50Python), [CS50 Web](https://github.com/VikSil/CS50Web), [CS50AI](https://github.com/VikSil/CS50AI), [Rust course on freeCodeCamp](https://github.com/VikSil/freecodecamp_rust_course) and [Software Engineering Bootcamp by Northcoders](https://github.com/VikSil/NC-news-frontend).
-* I am currently working through [100 Days of Code](https://github.com/VikSil/udemy_100_days_of_code) Python course by Udemy, as well as building a [proof of concept system/website](www.howtoquant.com) that combines my past experiences and newly acquired development skills, while looking for work opportunities in the industry.
+* I have been building out my GitHub portfolio since July 2023 and have taken several programming courses to do so, including Harvard's [CS50 Python](https://github.com/VikSil/CS50Python), [CS50 Web](https://github.com/VikSil/CS50Web) and [CS50AI](https://github.com/VikSil/CS50AI), [DevOps with Docker](https://github.com/VikSil/DevOps_with_Docker) and [DevOps with Kubernetes](https://github.com/VikSil/DevOps_with_Kubernetes) by the University of Helsinki, [100 Days of Code](https://github.com/VikSil/udemy_100_days_of_code) Python course by Udemy, [Rust course on freeCodeCamp](https://github.com/VikSil/freecodecamp_rust_course) and [Software Engineering Bootcamp by Northcoders](https://github.com/VikSil/NC-news-frontend).
+* I am currently looking for open source projects to contribute to and work opportunities in the industry.
 <br>
 
 
@@ -110,7 +110,11 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Power_Automate_Desktop_Logo.png" alt="Power Automate Desktop" width="50" height="50"/>](? "Power Automate Desktop")
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/MS_Power_BI_Logo.png" alt="PowerBI" width="50" height="50"/>](? "PowerBI")
 [<img src="https://skillicons.dev/icons?i=grafana" alt="Grafana"/>](? "Grafana")
+[<img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus"/>](? "Prometheus")
 [<img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>](? "Docker")
+[<img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"/>](? "Kubernetes")
+[<img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" alt="Argo" width="50" height="50"/>](? "Argo")
+[<img src="https://avatars.githubusercontent.com/u/62133242?s=200&v=4" alt="Lens" width="50" height="50"/>](? "Lens")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark"  width="50" height="50"/>](? "Wireshark")
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Virtual_Box_Logo.png" alt="Oracle Virtual Box" width="50" height="50"/>](? "Oracle Virtual Box")
 [<img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" alt="FileZilla" width="50" height="50"/>](? "FileZilla")
@@ -125,6 +129,7 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://skillicons.dev/icons?i=netlify" alt="netlify"/>](? "netlify")
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Aiven_Logo.png" alt="Aiven" width="50" height="50"/>](? "Aiven")
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/ElephantSQL_Logo.png" alt="ElephantSQL" width="50" height="50"/>](? "ElephantSQL")
+[<img src="https://skillicons.dev/icons?i=gce" alt="GCP"/>](? "Google Cloud Platform")
 <br>
 <br>
 
@@ -293,7 +298,57 @@ All of the below I have worked with at some point to varying degree of proficien
             </p>
         </td>
     </tr>
+    <tr>
+        <td>
+            <h3 align="center"><a href = "https://github.com/VikSil/DevOps_with_Docker">DevOps_with_Docker</a></h3>
+            <p align="center">
+                <img src="https://img.shields.io/github/created-at/VikSil/DevOps_with_Docker" alt="Created At"/>&nbsp;
+                <img src="https://img.shields.io/github/last-commit/Viksil/DevOps_with_Docker" alt="Last commit"/>
+                <br>
+                <img src="https://img.shields.io/github/commit-activity/t/viksil/DevOps_with_Docker" alt="Number of commits"/>&nbsp;
+                <img src="https://img.shields.io/github/languages/count/viksil/DevOps_with_Docker" alt="Language count"/>
+                <img src="https://wakatime.com/badge/github/VikSil/DevOps_with_Docker.svg" alt="Wakatime"/>
+            </p>
+        </td>
+        <td>
+            <p align="center"><br>
+                Repository of problems solved while taking 'DevOps with Docker' MOOC by The University of Helsinki
+                <br><br>
+                <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+                <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub actions"/>
+                <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=black" alt="Bash"/>
+            </p>
+        </td>
+    </tr>
         <tr>
+        <td>
+            <h3 align="center"><a href = "https://github.com/VikSil/DevOps_with_Kubernetes">DevOps_with_Kubernetes</a></h3>
+            <p align="center">
+                <img src="https://img.shields.io/github/created-at/VikSil/DevOps_with_Kubernetes" alt="Created At"/>&nbsp;
+                <img src="https://img.shields.io/github/last-commit/Viksil/DevOps_with_Kubernetes" alt="Last commit"/>
+                <br>
+                <img src="https://img.shields.io/github/commit-activity/t/viksil/DevOps_with_Kubernetes" alt="Number of commits"/>&nbsp;
+                <img src="https://img.shields.io/github/languages/count/viksil/DevOps_with_Kubernetes" alt="Language count"/>
+                <img src="https://wakatime.com/badge/github/VikSil/DevOps_with_Kubernetes.svg" alt="Wakatime"/>
+            </p>
+        </td>
+        <td>
+            <p align="center"><br>
+                Repository of problems solved while taking 'DevOps with Kubernetes' MOOC by The University of Helsinki
+                <br><br>                
+                <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=darkblue" alt="Kubernetes"/>
+                <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=yellow" alt="Google Cloud"/>
+                <img src="https://img.shields.io/badge/Lens-3D90CE?style=flat-square&logo=lens&logoColor=darkblue" alt="Lens"/>
+                <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat-square&logo=argo&logoColor=gray" alt="Argo"/>
+                <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+                <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
+                <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+                <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub actions"/>
+                <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=black" alt="Bash"/>
+            </p>
+        </td>
+    </tr>
+    <tr>
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/NC-news-frontend">NC-news-frontend</a></h3>
             <p align="center">
