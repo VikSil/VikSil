@@ -64,6 +64,7 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash" />](? "Bash")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" alt="Powershell" />](? "MS Powershell")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=rust" alt="Rust" />](? "Rust")
+[<img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/MQL5_Community_Logo.png" alt="MQL" width="50" height="50"/>](? "MQL")
 <br>
 <br>
 
