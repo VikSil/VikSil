@@ -92,6 +92,7 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://skillicons.dev/icons?i=postman" alt="Postman"/>](? "Postman")
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/yahoo_finance_Logo.png" alt="Yahoo! Finance" width="50" height="50"/>](? "Yahoo! Finance")
 [<img src="https://avatars.githubusercontent.com/u/25178434?s=200&v=4" alt="Poligon.io" width="50" height="50"/>](? "Poligon.io")
+[<img src="https://skillicons.dev/icons?i=github" alt="GitHub API"/>](? "GitHub API")
 [<img src="https://avatars.githubusercontent.com/u/16919504?s=200&v=4" alt="Rapid API" width="50" height="50"/>](? "Rapid API")
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Twilio_Logo.png" alt="Twilio" width="50" height="50"/>](? "Twilio")
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Sheety_Logo.png" alt="Sheety" width="50" height="50"/>](? "Sheety")
