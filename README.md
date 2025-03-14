@@ -31,6 +31,7 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://skillicons.dev/icons?i=django&theme=dark&perline=15" alt="Django" />](? "Django")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" alt="Jupyter" />](? "Jupyter Notebook")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" alt="Pandas" />](? "Pandas")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=polars" alt="Polars" />](? "Polars")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" alt="Numpy" />](? "Numpy")
 [<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" alt="Plotly" width="50" height="50"/>](? "Plotly")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" alt="matplotlib" />](? "Matplotlib")
@@ -74,6 +75,7 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" alt="PostgreSQL" />](? "PostgreSQL")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" alt="MySQL" />](? "MySQL")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" alt="SQLite" />](? "SQLite")
+[<img src="https://dbdb.io/media/logos/arcticdb.svg" alt="ArcticDB" width="50" height="50"/>](? "ArcticDB")
 <br>
 <br>
 
