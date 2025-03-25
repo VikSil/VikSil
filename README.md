@@ -120,6 +120,7 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"/>](? "Kubernetes")
 [<img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" alt="Argo" width="50" height="50"/>](? "Argo")
 [<img src="https://avatars.githubusercontent.com/u/62133242?s=200&v=4" alt="Lens" width="50" height="50"/>](? "Lens")
+[<img src="https://skillicons.dev/icons?i=kafka" alt="Kafka"/>](? "Kafka")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark"  width="50" height="50"/>](? "Wireshark")
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Virtual_Box_Logo.png" alt="Oracle Virtual Box" width="50" height="50"/>](? "Oracle Virtual Box")
 [<img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" alt="FileZilla" width="50" height="50"/>](? "FileZilla")
