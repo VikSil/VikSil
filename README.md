@@ -55,6 +55,7 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/MathJax.svg/1280px-MathJax.svg.png" alt="MathJax" width="50" height="50"/>](? "MathJax")
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Dropzone_Logo.png" alt="Dropzone" width="50" height="50"/>](? "Dropzone")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="React" />](? "React")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" alt="React" />](? "React Native")
 [<img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" alt="React Router" width="50" height="50"/>](? "React Router")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=materialui" alt="Material UI" />](? "Material UI")
 <br>
