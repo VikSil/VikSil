@@ -151,6 +151,31 @@ All of the below I have worked with at some point to varying degree of proficien
 ## Public Repo Summary
 
 <table>
+ <tr>
+        <td>
+            <h3 align="center"><a href = "https://github.com/VikSil/Statistics101">Statistics101</a></h3>
+            <p align="center"><img src="https://img.shields.io/github/created-at/VikSil/statistics101" alt="Created At"/>&nbsp;<img src="https://img.shields.io/github/last-commit/Viksil/statistics101" alt="Last commit"/><br><img src="https://img.shields.io/github/commit-activity/t/viksil/Statistics101" alt="Number of commits"/>&nbsp;<img src="https://img.shields.io/github/languages/count/viksil/Statistics101" alt="Language count"/></p>
+        </td>
+        <td>
+            <p align="center"><br>
+                Capstone project for Harvard's CS50 Web course. The website explores the basics of statistics.<br><br>
+                <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
+                <img src="https://img.shields.io/badge/django-103e2e?style=flat-square" alt="django"/>
+                <img src="https://img.shields.io/badge/pandas-f6f6f6?style=flat-square&logo=pandas&logoColor=0d044d" alt="pandas"/>
+                <img src="https://img.shields.io/badge/NumPy-4b73c9?style=flat-square&logo=numpy&logoColor=4ba5c9" alt="numpy"/>
+                <img src="https://img.shields.io/badge/plotly-black?style=flat-square&logo=plotly&logoColor=f03470" alt="plotly"/>
+                <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
+                <img alt="CSS" src="https://img.shields.io/badge/CSS-f6f6f6?style=flat-square&logo=css3&logoColor=%231572B6" /> 
+                <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-f6f6f6?style=flat-square&logo=bootstrap" />
+                <img alt="Sass" src="https://img.shields.io/badge/Sass-f6f6f6?style=flat-square&logo=sass" />
+                <img src="https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> 
+                <img alt="MathJax" src="https://img.shields.io/badge/MathJax-darkgreen?style=flat-square" />
+                <img alt="Dropzone" src="https://img.shields.io/badge/Dropzone-purple?style=flat-square" />
+                <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003954?style=flat-square&logo=sqlite"/>
+                <img alt="Python Anywhere" src="https://img.shields.io/badge/pythonanywhere%20-f6f6f6?style=flat-square&logo=pythonanywhere" />
+            </p>
+        </td>
+    </tr>
   <tr>
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/howtoquant-backend">How To Quant (backend)</a></h3>
@@ -192,31 +217,6 @@ All of the below I have worked with at some point to varying degree of proficien
             </p>
         </td>
     </tr>    
- <tr>
-        <td>
-            <h3 align="center"><a href = "https://github.com/VikSil/Statistics101">Statistics101</a></h3>
-            <p align="center"><img src="https://img.shields.io/github/created-at/VikSil/statistics101" alt="Created At"/>&nbsp;<img src="https://img.shields.io/github/last-commit/Viksil/statistics101" alt="Last commit"/><br><img src="https://img.shields.io/github/commit-activity/t/viksil/Statistics101" alt="Number of commits"/>&nbsp;<img src="https://img.shields.io/github/languages/count/viksil/Statistics101" alt="Language count"/></p>
-        </td>
-        <td>
-            <p align="center"><br>
-                Capstone project for Harvard's CS50 Web course. The website explores the basics of statistics.<br><br>
-                <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
-                <img src="https://img.shields.io/badge/django-103e2e?style=flat-square" alt="django"/>
-                <img src="https://img.shields.io/badge/pandas-f6f6f6?style=flat-square&logo=pandas&logoColor=0d044d" alt="pandas"/>
-                <img src="https://img.shields.io/badge/NumPy-4b73c9?style=flat-square&logo=numpy&logoColor=4ba5c9" alt="numpy"/>
-                <img src="https://img.shields.io/badge/plotly-black?style=flat-square&logo=plotly&logoColor=f03470" alt="plotly"/>
-                <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-                <img alt="CSS" src="https://img.shields.io/badge/CSS-f6f6f6?style=flat-square&logo=css3&logoColor=%231572B6" /> 
-                <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-f6f6f6?style=flat-square&logo=bootstrap" />
-                <img alt="Sass" src="https://img.shields.io/badge/Sass-f6f6f6?style=flat-square&logo=sass" />
-                <img src="https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> 
-                <img alt="MathJax" src="https://img.shields.io/badge/MathJax-darkgreen?style=flat-square" />
-                <img alt="Dropzone" src="https://img.shields.io/badge/Dropzone-purple?style=flat-square" />
-                <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003954?style=flat-square&logo=sqlite"/>
-                <img alt="Python Anywhere" src="https://img.shields.io/badge/pythonanywhere%20-f6f6f6?style=flat-square&logo=pythonanywhere" />
-            </p>
-        </td>
-    </tr>
     <tr>
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/CS50Web">CS50Web</a></h3>
