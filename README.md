@@ -56,6 +56,7 @@ All of the below I have worked with at some point to varying degree of proficien
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Dropzone_Logo.png" alt="Dropzone" width="50" height="50"/>](? "Dropzone")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="React" />](? "React")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" alt="React" />](? "React Native")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=expo" alt="Expo" />](? "Expo")
 [<img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" alt="React Router" width="50" height="50"/>](? "React Router")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=materialui" alt="Material UI" />](? "Material UI")
 <br>
@@ -216,7 +217,25 @@ All of the below I have worked with at some point to varying degree of proficien
                 <img alt="netlify" src="https://img.shields.io/badge/netlify-white?style=flat-square&logo=netlify" />
             </p>
         </td>
-    </tr>    
+    </tr>   
+        <tr>
+        <td>
+            <h3 align="center"><a href = "https://github.com/VikSil/SingleScan">SingleScan</a></h3>
+            <p align="center"><img src="https://img.shields.io/github/created-at/VikSil/SingleScan" alt="Created At"/>&nbsp;<img src="https://img.shields.io/github/last-commit/Viksil/SingleScan" alt="Last commit"/><br><img src="https://img.shields.io/github/commit-activity/t/viksil/SingleScan" alt="Number of commits"/></p>
+        </td>
+        <td>
+            <p align="center"><br>
+                Mobile application for scanning barcodes to find the best re-selling offer among book vendors.<br><br>
+                <img src="https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+                <img alt="React" src="https://img.shields.io/badge/ReactNative-black?style=flat-square&logo=react&logoColor=%2361DAFB" />
+                <img alt="React" src="https://img.shields.io/badge/Expo-black?style=flat-square&logo=react&logoColor=%2361DAFB" />
+                <img alt="React Router" src="https://img.shields.io/badge/React_Router-black?style=flat-square&logo=react-router&logoColor=CA4245"/>
+                <img src="https://img.shields.io/badge/API-orange?style=flat-square" alt="API"/>
+                <img alt="JSON" src="https://img.shields.io/badge/JSON-f6f6f6?style=flat-square&logo=json&logoColor=969696" />
+                <img alt="AXIOS" src="https://img.shields.io/badge/AXIOS-f6f6f6?style=flat-square&logo=axios?&logoColor=%235A29E4" />
+            </p>
+        </td>
+    </tr>  
     <tr>
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/CS50Web">CS50Web</a></h3>
