@@ -485,7 +485,7 @@ All of the below I have worked with at some point to varying degree of proficien
             </p>
         </td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/PowerBI_Public">PowerBI_Public</a></h3>
             <p align="center">
@@ -502,7 +502,7 @@ All of the below I have worked with at some point to varying degree of proficien
                 <img alt="Microsoft PowerBI" src="https://img.shields.io/badge/Microsoft%20PowerBI-ffcf40?style=flat-square" />
             </p>
         </td>
-    </tr>
+    </tr> -->
 </table>
 <br>
 
