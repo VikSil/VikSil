@@ -159,7 +159,7 @@ All of the below I have worked with at some point to varying degree of proficien
         </td>
         <td>
             <p align="center"><br>
-                Capstone project for Harvard's CS50 Web course. The website explores the basics of statistics.<br><br>
+                Capstone project for Harvard's <a href = "https://github.com/VikSil/CS50Web">CS50 Web course</a>. The website explores the basics of statistics.<br><br>
                 <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
                 <img src="https://img.shields.io/badge/django-103e2e?style=flat-square" alt="django"/>
                 <img src="https://img.shields.io/badge/pandas-f6f6f6?style=flat-square&logo=pandas&logoColor=0d044d" alt="pandas"/>
@@ -236,52 +236,6 @@ All of the below I have worked with at some point to varying degree of proficien
             </p>
         </td>
     </tr>  
-    <tr>
-        <td>
-            <h3 align="center"><a href = "https://github.com/VikSil/CS50Web">CS50Web</a></h3>
-            <p align="center">
-                <img src="https://img.shields.io/github/created-at/VikSil/cs50web" alt="Created At"/>&nbsp;
-                <img src="https://img.shields.io/github/last-commit/Viksil/cs50web" alt="Last commit"/><br>
-                <img src="https://img.shields.io/github/commit-activity/t/viksil/cs50web" alt="Number of commits"/>&nbsp;
-                <img src="https://img.shields.io/github/languages/count/viksil/cs50web" alt="Language count"/>
-            </p>
-        </td>
-        <td>
-            <p align="center"><br>
-                Repository of projects created while taking Harvard's CS50 Web course.
-                <br><br>
-                <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
-                <img src="https://img.shields.io/badge/django-103e2e?style=flat-square" alt="django"/>
-                <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-                <img alt="CSS" src="https://img.shields.io/badge/CSS-f6f6f6?style=flat-square&logo=css3&logoColor=%231572B6" /> 
-                <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-f6f6f6?style=flat-square&logo=bootstrap" />
-                <img src="https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> 
-                <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003954?style=flat-square&logo=sqlite"/>
-            </p>
-        </td>
-    </tr>
-      <tr>
-        <td>
-            <h3 align="center"><a href = "https://github.com/VikSil/CS50AI">CS50AI</a></h3>
-            <p align="center">
-                <img src="https://img.shields.io/github/created-at/VikSil/cs50ai" alt="Created At"/>&nbsp;
-                <img src="https://img.shields.io/github/last-commit/Viksil/cs50ai" alt="Last commit"/><br>
-                <img src="https://img.shields.io/github/commit-activity/t/viksil/cs50ai" alt="Number of commits"/>&nbsp;
-                <img src="https://img.shields.io/github/languages/count/viksil/cs50ai" alt="Language count"/>&nbsp;
-                <img src="https://wakatime.com/badge/github/VikSil/CS50AI.svg" alt="Wakatime"/>
-            </p>
-        </td>
-        <td>
-            <p align="center"><br>
-                Repository of projects created while taking Harvard's CS50 AI course.
-                <br><br>
-                <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
-                <img src="https://img.shields.io/badge/TensorFlow-gray?style=flat-square&logo=tensorflow" alt="TensorFlow"/>
-                <img src="https://img.shields.io/badge/scikitlearn-blue?style=flat-square&logo=scikitlearn" alt="scikit-learn"/>
-                <img src="https://img.shields.io/badge/nltk-black?style=flat-square" alt="nltk"/>
-            </p>
-        </td>
-    </tr>
         <tr>
         <td>
             <h3 align="center"><a href = "https://github.com/VikSil/UC_journal_automation">UC_journal_automation</a></h3>
@@ -300,6 +254,27 @@ All of the below I have worked with at some point to varying degree of proficien
                 <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
                 <img src="https://img.shields.io/badge/Selenium-f6f6f6?style=flat-square&logo=selenium" alt="Selenium"/>
                 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker"/>
+                <img src="https://img.shields.io/badge/pandas-f6f6f6?style=flat-square&logo=pandas&logoColor=0d044d" alt="pandas"/>
+            </p>
+        </td>
+    </tr>
+        <tr>
+        <td>
+            <h3 align="center"><a href = "https://github.com/VikSil/LinkedIn_Crawler">LinkedIn Crawler</a></h3>
+            <p align="center">
+                <img src="https://img.shields.io/github/created-at/VikSil/linkedin_crawler" alt="Created At"/>&nbsp;
+                <img src="https://img.shields.io/github/last-commit/Viksil/linkedin_crawler" alt="Last commit"/><br>
+                <img src="https://img.shields.io/github/commit-activity/t/viksil/linkedin_crawler" alt="Number of commits"/>&nbsp;
+                <img src="https://img.shields.io/github/languages/count/viksil/linkedin_crawler" alt="Language count"/>
+            </p>
+        </td>
+        <td>
+            <p align="center"><br>
+                Scripts for scraping companies and job advertisement from LinkedIn website.
+                <br><br>
+                <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
+                <img src="https://img.shields.io/badge/Beautiful%20Soup-f6f6f6?style=flat-square" alt="Beautiful Soup"/>
+                <img src="https://img.shields.io/badge/Selenium-f6f6f6?style=flat-square&logo=selenium" alt="Selenium"/>
                 <img src="https://img.shields.io/badge/pandas-f6f6f6?style=flat-square&logo=pandas&logoColor=0d044d" alt="pandas"/>
             </p>
         </td>
@@ -374,6 +349,28 @@ All of the below I have worked with at some point to varying degree of proficien
                 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=black" alt="Bash"/>
                 <img alt="Rust" src="https://img.shields.io/badge/Rust-f6f6f6?style=flat-square&logo=rust&logoColor=black" />
                 <img src="https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3 align="center"><a href = "https://github.com/VikSil/CS50AI">CS50AI</a></h3>
+            <p align="center">
+                <img src="https://img.shields.io/github/created-at/VikSil/cs50ai" alt="Created At"/>&nbsp;
+                <img src="https://img.shields.io/github/last-commit/Viksil/cs50ai" alt="Last commit"/><br>
+                <img src="https://img.shields.io/github/commit-activity/t/viksil/cs50ai" alt="Number of commits"/>&nbsp;
+                <img src="https://img.shields.io/github/languages/count/viksil/cs50ai" alt="Language count"/>&nbsp;
+                <img src="https://wakatime.com/badge/github/VikSil/CS50AI.svg" alt="Wakatime"/>
+            </p>
+        </td>
+        <td>
+            <p align="center"><br>
+                Repository of projects created while taking Harvard's CS50 AI course.
+                <br><br>
+                <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
+                <img src="https://img.shields.io/badge/TensorFlow-gray?style=flat-square&logo=tensorflow" alt="TensorFlow"/>
+                <img src="https://img.shields.io/badge/scikitlearn-blue?style=flat-square&logo=scikitlearn" alt="scikit-learn"/>
+                <img src="https://img.shields.io/badge/nltk-black?style=flat-square" alt="nltk"/>
             </p>
         </td>
     </tr>
