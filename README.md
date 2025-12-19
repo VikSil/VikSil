@@ -249,7 +249,7 @@ All of the below I have worked with at some point to varying degree of proficien
         </td>
         <td>
             <p align="center"><br>
-                Dockerised Python script that automatically submits entries from Google Sheets to job search journal on Universal Credit Website, using Selenium.
+                Dockerised Python script that automatically submits entries from Google Sheets to job search journal on Universal Credit Website.
                 <br><br>
                 <img src="https://img.shields.io/badge/Python-ffcf40?style=flat-square&logo=python" alt="Python"/>
                 <img src="https://img.shields.io/badge/Selenium-f6f6f6?style=flat-square&logo=selenium" alt="Selenium"/>
@@ -266,6 +266,7 @@ All of the below I have worked with at some point to varying degree of proficien
                 <img src="https://img.shields.io/github/last-commit/Viksil/linkedin_crawler" alt="Last commit"/><br>
                 <img src="https://img.shields.io/github/commit-activity/t/viksil/linkedin_crawler" alt="Number of commits"/>&nbsp;
                 <img src="https://img.shields.io/github/languages/count/viksil/linkedin_crawler" alt="Language count"/>
+                <img src="https://wakatime.com/badge/user/018ecc94-109b-4e5f-bf93-d237e1ff41ff/project/23bc49ff-05b2-45c8-b105-fb5c417bf2d9.svg" alt="Wakatime"/>
             </p>
         </td>
         <td>
